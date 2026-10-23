@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: read
 jobs:
   notices:
     runs-on: ubuntu-latest
@@ -28,3 +29,16 @@ jobs:
         run: pip install google-auth requests && python .github/fcm_send.py - update.json --topic updates
         env:
           FCM_SA: ${{ secrets.FCM_SA }}
+      # 2026-10-23 사용자 선택(실패 푸시): 매시간 도는 작업이라 두 번 연속 실패할 때만 개발용 푸시를 보낸다(한 번은 다음 실행을 기다림).
+      - if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FCM_SA: ${{ secrets.FCM_SA }}
+          URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          prev=$(gh run list -R "$GITHUB_REPOSITORY" -w notices.yml -L 5 --json databaseId,status,conclusion \
+            --jq "[.[] | select(.status == \"completed\" and .databaseId != $GITHUB_RUN_ID)][0].conclusion")
+          echo "이전 실행: $prev"
+          if [ "$prev" != failure ]; then echo "한 번 실패: 다음 실행을 기다림"; exit 0; fi
+          pip install -q google-auth requests
+          python .github/fcm_send.py - - --dev "patch-data 확인 필요(아워 노트)" "공지 번역 갱신(notices)이 두 번 연속 실패" --url "$URL"
