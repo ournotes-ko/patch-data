@@ -1,0 +1,348 @@
+{
+ "announcements": [
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1793372340",
+   "id": "68",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792735200",
+   "stylesheetId": "1",
+   "title": "オリジナル楽曲「新人類は仮想世界の夢を見るか？」追加！"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1824389940",
+   "id": "65",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792648800",
+   "stylesheetId": "1",
+   "title": "Ave Mujica 7th LIVE「Virtus」シリアルコード特典のご案内"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1793285940",
+   "id": "66",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792641600",
+   "stylesheetId": "1",
+   "title": "【重要】利用規約違反行為への対応に関するお知らせ"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1793199540",
+   "id": "64",
+   "lastUpdatedAt": "1792483980",
+   "startAt": "1792562400",
+   "stylesheetId": "1",
+   "title": "Ave Mujica ミニAlbum「神の名を」リリース！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1792940340",
+   "id": "63",
+   "lastUpdatedAt": "1792389660",
+   "startAt": "1792314000",
+   "stylesheetId": "1",
+   "title": "【完了】アクセス集中によりゲームに繋がりにくい事象について"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00014_ef5e59715bee510af3139733c6199485999c762d9e32ec4137fb0f3ef789b7a7.png",
+   "category": "GACHA",
+   "endAt": "1793167140",
+   "id": "54",
+   "lastUpdatedAt": "1793167140",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00014_5bed05da828df30dcef8f33cc2adfb5810bdce4e7d5c9c202059affeaa52b479.png",
+   "pickupEndAt": "1793167140",
+   "pickupStartAt": "1792303200",
+   "startAt": "1792303200",
+   "stylesheetId": "1",
+   "title": "「はじめてを奏でる光彩讃歌ガチャ」開催！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00003_89d193f211e73de54e6f745ededbb5d837a8229d9615687045518b8aa10434a1.png",
+   "category": "EVENT",
+   "endAt": "1793339940",
+   "id": "56",
+   "lastUpdatedAt": "1792994340",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00003_623aa3dfa8e9ad7d9554cd356d4a9fd59ccf3939c5d8cb1154518d8a9fa109da.png",
+   "pickupEndAt": "1792994340",
+   "pickupStartAt": "1792303200",
+   "startAt": "1792303200",
+   "stylesheetId": "1",
+   "title": "イベント「Shake Your 魂, Baby!!」開催！"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1792940340",
+   "id": "62",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792303200",
+   "stylesheetId": "1",
+   "title": "「ジャイアント・キラー・チューン」MV追加！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
+   "category": "UPDATE",
+   "endAt": "1792940340",
+   "id": "61",
+   "lastUpdatedAt": "1792299720",
+   "startAt": "1792303200",
+   "stylesheetId": "1",
+   "title": "「Ver.1.0.6」アップデートおよびメンテナンス終了のご案内"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1792767540",
+   "id": "57",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792130400",
+   "stylesheetId": "1",
+   "title": "オリジナル楽曲「神の名を」追加！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_gacha_banner_00013_1e059b9a5ef1a54b193e9a1b7ef4c7ceae1aa361a5bddd14bc1292f5ae14386a.png",
+   "category": "GACHA",
+   "endAt": "1792940340",
+   "id": "52",
+   "lastUpdatedAt": "1792068180",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00013_09e1577e4f52d426d2065fd9db0a3a1dfd1367bd465da162cbaaa8ad526523ca.png",
+   "pickupEndAt": "1792940340",
+   "pickupStartAt": "1792130400",
+   "startAt": "1792072800",
+   "stylesheetId": "1",
+   "title": "ガチャ「映画公開記念 Ave Mujicaピックアップ」開催！"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1795100340",
+   "id": "53",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792072800",
+   "stylesheetId": "1",
+   "title": "【追記 10/16】映画「BanG Dream! Ave Mujica prima aurora」公開記念 キャンペーン開催！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00001_58e0a5478ee17bc73c7c263bebd7cc842f5f3cf1fc0e9d8c68eb874961e6a65e.png",
+   "category": "EVENT",
+   "endAt": "1792767540",
+   "id": "20",
+   "lastUpdatedAt": "1791365400",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00001_17a45d26a0231a26a54276e1d6204218af2f2430f98ee75e6d453a6a46df027a.png",
+   "pickupEndAt": "1791460740",
+   "pickupStartAt": "1790758800",
+   "startAt": "1790758800",
+   "stylesheetId": "1",
+   "title": "【完了】イベント「アイの奔流 AtoZ」開催！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1821625200",
+   "id": "2",
+   "lastUpdatedAt": "1792296060",
+   "startAt": "1790686800",
+   "stylesheetId": "1",
+   "title": "【追記 10/16】現在確認している不具合"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
+   "category": "MAINTENANCE",
+   "endAt": "1792767540",
+   "id": "59",
+   "lastUpdatedAt": "1792125840",
+   "startAt": "1792130400",
+   "stylesheetId": "1",
+   "title": "メンテナンス終了のご案内"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1823266740",
+   "id": "42",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1791698400",
+   "stylesheetId": "1",
+   "title": "夢限大みゅーたいぷ LIVE「DIMENSIONAL OVERLAP」シリアルコード特典のご案内"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1823093940",
+   "id": "48",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1791525600",
+   "stylesheetId": "1",
+   "title": "【重要】不正行為に対する措置と今後の対応方針について"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1793458740",
+   "id": "32",
+   "lastUpdatedAt": "1791277560",
+   "startAt": "1791279000",
+   "stylesheetId": "1",
+   "title": "【追記 10/08】イベントに関するご意見と今後のバランス調整について"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793458740",
+   "id": "26",
+   "lastUpdatedAt": "1792296300",
+   "startAt": "1790859600",
+   "stylesheetId": "1",
+   "title": "【追記 10/06】「Ver.1.0.4」で発生している撃奏スキル・撃奏サポート不具合について"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1822316100",
+   "id": "16",
+   "lastUpdatedAt": "1791265200",
+   "startAt": "1790661600",
+   "stylesheetId": "1",
+   "title": "「夢限大みゅーたいぷ」「millsage」「一家Dumb Rock!」Singleリリース！"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1793199540",
+   "id": "24",
+   "lastUpdatedAt": "1791265560",
+   "startAt": "1790749800",
+   "stylesheetId": "1",
+   "title": "【重要】イベントに関する補足と今後の運営方針について"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793372400",
+   "id": "14",
+   "lastUpdatedAt": "1791265500",
+   "startAt": "1790758800",
+   "stylesheetId": "1",
+   "title": "【完了】イベント「アイの奔流 AtoZ」延期と今後の対応について"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793372400",
+   "id": "11",
+   "lastUpdatedAt": "1791265620",
+   "startAt": "1790686800",
+   "stylesheetId": "1",
+   "title": "【完了】スターの所持数が正しく表示されない不具合について"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1792940340",
+   "id": "9",
+   "lastUpdatedAt": "1791265740",
+   "startAt": "1790326800",
+   "stylesheetId": "1",
+   "title": "サービス開始遅延、およびアクセス集中に伴う影響のお詫びについて"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793372400",
+   "id": "15",
+   "lastUpdatedAt": "1791265380",
+   "startAt": "1790597700",
+   "stylesheetId": "1",
+   "title": "撃奏ライブにおけるマッチングエラーについて"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793458740",
+   "id": "10",
+   "lastUpdatedAt": "1790597760",
+   "startAt": "1790597700",
+   "stylesheetId": "1",
+   "title": "【追記 09/28】アクセス集中に伴う接続障害の発生経緯と現在の対応状況のご報告"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_release_campaign_19733d0759c3aea7462729247d52415c82e627e0b539590ad0f9b58bbe58fcad.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793167140",
+   "id": "4",
+   "lastUpdatedAt": "1791265320",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_release_campaign_214b8df6fed0fc191c1d64c115afa1c5a4b3cc667757cda1df9c583e635f3cc8.png",
+   "pickupEndAt": "1793167140",
+   "pickupStartAt": "1790175600",
+   "startAt": "1790175600",
+   "stylesheetId": "1",
+   "title": "「バンドリ！アワーノーツ」正式サービス開始！"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1821625200",
+   "id": "6",
+   "lastUpdatedAt": "1791265380",
+   "startAt": "1790175600",
+   "stylesheetId": "1",
+   "title": "【重要】iOS 27および最新iPhone端末での動作について"
+  }
+ ],
+ "externalContents": [
+  {
+   "bannerPath": "operation/BannerContent_001_c3b6eadaeab6ad750b748c0d41b671fdd38d9f2e0d4ac3f25be0c31530148253.png",
+   "id": "1"
+  },
+  {
+   "bannerPath": "operation/BannerContent_002_1a2b6309353efd686dd6fc9112b688f80cd17c0c4ff651ef2e7314a72a135308.png",
+   "id": "3"
+  },
+  {
+   "bannerPath": "operation/BannerContent_003_e413acd3596219b0dac6144790a4018db141661256d2a9dacfc03e20f41cd408.png",
+   "id": "2"
+  },
+  {
+   "bannerPath": "operation/BannerContent_004_c493c138d13e01f267ed0a813f2389f201b2161c2391a9a0b07db1d1f0b48d17.png",
+   "id": "4"
+  },
+  {
+   "bannerPath": "operation/BannerContent_005_1a5fb20d72856af02d402d5d6f3516911252211939bc33f26e62c5acc9893a4e.png",
+   "id": "5"
+  },
+  {
+   "bannerPath": "operation/BannerContent_006_2b184fb2f6a2f981b20bdbd29599663db6df82c009c4d031a64a3c9fd1286d23.png",
+   "id": "6"
+  },
+  {
+   "bannerPath": "operation/BannerContent_007_7b8ce45e011a966763fdf85758956f618288b14b3fb416399b7ac653e8c2806f.png",
+   "id": "7"
+  },
+  {
+   "bannerPath": "operation/BannerContent_008_20c91f9a7c05fdb06500a36d1c6459b4b8e0efabda3e9c7e65554f35270d42c6.png",
+   "id": "8"
+  },
+  {
+   "bannerPath": "operation/BannerContent_009_f52560d7c1952c070d8360e46b3cb29515ae66229e1950a8a32261428ad87ca8.png",
+   "id": "9"
+  },
+  {
+   "bannerPath": "operation/BannerContent_010_e6b413ea3ef62c8494f954d3c35d5cf216b302123830f3143ce26d535b63f2ee.png",
+   "id": "10"
+  },
+  {
+   "bannerPath": "operation/BannerContent_011_9fd1b1090e90597d4019d44455598970f9dda7671f8fc94b94490f7b571bbcc2.png",
+   "id": "11"
+  },
+  {
+   "bannerPath": "operation/BannerContent_012_dc2d3beba85727453c3a9e2acdd72944f550854fe5fb245eb74d44d002e5731e.png",
+   "id": "12"
+  },
+  {
+   "bannerPath": "operation/BannerContent_013_41b587981b16c14491612c1ff8b5766786c3beaf2c769a079c2d16f7040aa7c5.png",
+   "id": "13"
+  },
+  {
+   "bannerPath": "operation/BannerContent_014_d22c846df1348ede406ec666e21cd01ca6ae0c93dc458fb86b60ec37c1c7a65d.png",
+   "id": "14"
+  },
+  {
+   "bannerPath": "operation/BannerContent_015_79b4a40eeb7834b9013b74f8be117777d59860f1ba893b26e3738cd28be65937.png",
+   "id": "15"
+  },
+  {
+   "bannerPath": "operation/BannerContent_016_190f4b362ad573aa26ce5ca275587ec08b6f532f680fa899b1ea672bbe1f575d.png",
+   "id": "16"
+  },
+  {
+   "bannerPath": "operation/BannerContent_017_e46a92f6c5fa1e0a4956f42e1d77f64296cd54bce031ae7d61a26acbe2029f40.png",
+   "id": "17"
+  }
+ ]
+}
