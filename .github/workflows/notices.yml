@@ -1,0 +1,30 @@
+name: notices
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  notices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: gen
+        run: |
+          python .github/notice_map.py --main-map onp_master_map.bin --map onp_notice_map.bin --out .github/notice \
+            --update-json update.json --base-url https://raw.githubusercontent.com/${{ github.repository }}/main/ | tee gen.log
+          if grep -q '^NOTICE_CHANGED' gen.log; then echo "changed=1" >> "$GITHUB_OUTPUT"; fi
+          rm -f gen.log
+      - run: |
+          git add -A onp_notice_map.bin update.json .github/notice
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name=ournotes-ko -c user.email=noreply@ournotes-ko.invalid commit -q -m "[notice] refresh notice map"
+          git push -q
+      - if: steps.gen.outputs.changed == '1'
+        run: pip install google-auth requests && python .github/fcm_send.py - update.json --topic updates
+        env:
+          FCM_SA: ${{ secrets.FCM_SA }}
