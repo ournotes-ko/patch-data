@@ -1,0 +1,32 @@
+name: notify
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: notify-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/zip_release.py
+      - if: ${{ !cancelled() }}
+        run: pip install google-auth requests
+      - if: ${{ !cancelled() && github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        run: python .github/fcm_send.py - update.json --topic updates
+        env:
+          FCM_SA: ${{ secrets.FCM_SA }}
+      - if: failure()
+        run: |
+          python .github/fcm_send.py - - --dev "patch-data 확인 필요(아워 노트)" "이미지 묶음 Release 만들기 실패(${{ github.ref_name }}) ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        env:
+          FCM_SA: ${{ secrets.FCM_SA }}
