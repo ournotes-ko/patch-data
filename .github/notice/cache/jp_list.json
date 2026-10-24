@@ -1,6 +1,15 @@
 {
  "announcements": [
   {
+   "category": "CAMPAIGN",
+   "endAt": "1793534340",
+   "id": "71",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792843200",
+   "stylesheetId": "1",
+   "title": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナス！"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00020_b0035d4e6970e9cb690937f6795218dd9c027abfbdc1c671a6235f14d2342577.png",
    "category": "CAMPAIGN",
    "endAt": "1793026740",
