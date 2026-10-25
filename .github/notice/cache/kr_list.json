@@ -1,0 +1,138 @@
+{
+ "announcements": [
+  {
+   "category": "OTHER",
+   "endAt": "1798725120",
+   "id": "100010",
+   "lastUpdatedAt": "1790237312",
+   "startAt": "1790085600",
+   "title": "【중요】iOS 27 및 최신 iPhone 기기에서의 실행 관련 안내"
+  },
+  {
+   "category": "EVENT",
+   "endAt": "1793534340",
+   "id": "100047",
+   "lastUpdatedAt": "1792760516",
+   "startAt": "1792843200",
+   "title": "Ave Mujica 7th LIVE 「Virtus」 개최 기념 캠페인 오픈!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261023_184850_6adb2d8295879_f4962787791b76d68d1e78abd31efb444e09d9da13a6d240797b4b85718ddc5f.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793026799",
+   "id": "100045",
+   "lastUpdatedAt": "1792749552",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261023_184851_6adb2d8346905_8205e9b414c4f0e7ec2d1aa033a26ffd775a6ec1d8a847159e66f0c09c9f01a7.png",
+   "pickupEndAt": "1793026799",
+   "pickupStartAt": "1792767600",
+   "startAt": "1792767600",
+   "title": "Happy Birthday, 호우카!"
+  },
+  {
+   "category": "EVENT",
+   "endAt": "1793199599",
+   "id": "100044",
+   "lastUpdatedAt": "1792496366",
+   "startAt": "1792562400",
+   "title": "Ave Mujica 미니 앨범 「신의 이름을」(神の名を) 발매!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_235705_6ad23b41c61d5_63c6ba75499f9db0879208cf949fb5d3fe6fe4c9d69ad66cee83f8eb7c699892.png",
+   "category": "EVENT",
+   "endAt": "1793339999",
+   "id": "100043",
+   "lastUpdatedAt": "1792163277",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_235706_6ad23b4243ab9_a6cf05c1ef8695f4b38de827d64709cc952871c54e6f10785276404ce397ddbf.png",
+   "pickupEndAt": "1793339999",
+   "pickupStartAt": "1792299600",
+   "startAt": "1792299600",
+   "title": "챌린지 라이브 이벤트 「Shake Your 영혼, Baby!!」 개최!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_213122_6ad2191a263ce_7292b781aa0a2d2954990a3b78bd0d7b1f3697f06b850918b14f6f35375c0592.png",
+   "category": "GACHA",
+   "endAt": "1793167199",
+   "id": "100041",
+   "lastUpdatedAt": "1792163273",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_213121_6ad2191938104_93719cc916a53820b20229eec99f37db632b346fe13fd7d353472c2b24642ac2.png",
+   "pickupEndAt": "1793167199",
+   "pickupStartAt": "1792299600",
+   "startAt": "1792299600",
+   "title": "「서막을 울리는 빛의 찬가 」  뽑기 오픈!"
+  },
+  {
+   "category": "EVENT",
+   "endAt": "1795100399",
+   "id": "100038",
+   "lastUpdatedAt": "1792067638",
+   "startAt": "1792072801",
+   "title": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 캠페인 개최!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261015_164423_6ad08457d7d37_82ce7a74f0db9c2ac33fc132fb8bcc7cc45b5fb25492e7578e6f11f21eaa2395.png",
+   "category": "GACHA",
+   "endAt": "1792940399",
+   "id": "100037",
+   "lastUpdatedAt": "1792066888",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261015_164424_6ad08458523e2_b7e822d7ba536ac4764428e3aff04e684551ee27978f89f6c07ced5154740dcb.png",
+   "pickupEndAt": "1792940399",
+   "pickupStartAt": "1792072800",
+   "startAt": "1792072800",
+   "title": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica 픽업 뽑기 오픈!"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793458740",
+   "id": "100027",
+   "lastUpdatedAt": "1790927800",
+   "startAt": "1790931600",
+   "title": "Ver.1.0.2 현재 확인된 문제 안내"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_222437_6ab3d315c82e2_1c5fcb5a55ae3845949fa93a620ed8fc4fe74c78e8fbe0a91aeced383e51ebf7.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793156399",
+   "id": "100006",
+   "lastUpdatedAt": "1790172103",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_222435_6ab3d31399eae_db604598903edee6bc682001d6abfd2160fa9a658175d5d9472de4b7d962f5b1.png",
+   "pickupEndAt": "1793156399",
+   "pickupStartAt": "1790145000",
+   "startAt": "1790145000",
+   "title": "특별 커버곡 「Abracadabra」 추가 기념 이벤트 개최!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_220109_6ab3cd954f2e5_4e4d80e3cd572b3f581066962decc36d580b2a183034a3004a8e27ea991fe17f.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793156340",
+   "id": "100005",
+   "lastUpdatedAt": "1790172708",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_220109_6ab3cd95e6008_064bd383d70e78719b0408a6ab70f9700db1c07cec910ef0fbbd7073b125cb88.png",
+   "pickupEndAt": "1793156340",
+   "pickupStartAt": "1790143200",
+   "startAt": "1790143200",
+   "title": "「뱅드림! 아워 노트」 정식 서비스 시작!"
+  }
+ ],
+ "externalContents": [
+  {
+   "bannerPath": "operation/announcement/20260922_193401_6ab25999bd5cf_6ba1a8df192dba62d45017bd00479d8491246a005f4eaef7a606a84ead89e025.png",
+   "id": "2"
+  },
+  {
+   "bannerPath": "operation/announcement/20260922_194121_6ab25b51eda63_6c3799810fb02763ae4fef6fa094b644989affecfc97269efd65472978e4c0e3.png",
+   "id": "1200000002"
+  },
+  {
+   "bannerPath": "operation/announcement/20260922_194138_6ab25b62c5514_9e20c99cc97cb2adfcb80a543192609a2bef6924b30f7b7ad5aa3ae35880f165.png",
+   "id": "1200000003"
+  },
+  {
+   "bannerPath": "operation/announcement/20260922_194151_6ab25b6f29e39_08a22c9675331c2b4015adb0e8e6fd3c9444ed5de5d436fc492eeadcfb63d93d.png",
+   "id": "1200000004"
+  },
+  {
+   "bannerPath": "operation/announcement/20260922_194210_6ab25b822d6a7_ecd33e3f7da6764799e458a2a561b080d53bc6c369655a6d9ef88668adca26c8.png",
+   "id": "1200000005"
+  }
+ ]
+}
