@@ -1,6 +1,16 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/banner_seasonpass_00006_5e0373e73127d2446322f5202f5604d02ae8818f3a58a8022f7a0b9ae02e5aed.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793534340",
+   "id": "70",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792929600",
+   "stylesheetId": "1",
+   "title": "Ave Mujica 7th LIVE「Virtus」開催記念 ミッションパス開催！"
+  },
+  {
    "category": "CAMPAIGN",
    "endAt": "1793534340",
    "id": "71",
@@ -68,15 +78,6 @@
    "title": "Ave Mujica ミニAlbum「神の名を」リリース！"
   },
   {
-   "category": "BUG",
-   "endAt": "1792940340",
-   "id": "63",
-   "lastUpdatedAt": "1792389660",
-   "startAt": "1792314000",
-   "stylesheetId": "1",
-   "title": "【完了】アクセス集中によりゲームに繋がりにくい事象について"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00014_ef5e59715bee510af3139733c6199485999c762d9e32ec4137fb0f3ef789b7a7.png",
    "category": "GACHA",
    "endAt": "1793167140",
@@ -101,38 +102,6 @@
    "startAt": "1792303200",
    "stylesheetId": "1",
    "title": "イベント「Shake Your 魂, Baby!!」開催！"
-  },
-  {
-   "category": "OTHER",
-   "endAt": "1792940340",
-   "id": "62",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1792303200",
-   "stylesheetId": "1",
-   "title": "「ジャイアント・キラー・チューン」MV追加！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
-   "category": "UPDATE",
-   "endAt": "1792940340",
-   "id": "61",
-   "lastUpdatedAt": "1792299720",
-   "startAt": "1792303200",
-   "stylesheetId": "1",
-   "title": "「Ver.1.0.6」アップデートおよびメンテナンス終了のご案内"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_gacha_banner_00013_1e059b9a5ef1a54b193e9a1b7ef4c7ceae1aa361a5bddd14bc1292f5ae14386a.png",
-   "category": "GACHA",
-   "endAt": "1792940340",
-   "id": "52",
-   "lastUpdatedAt": "1792068180",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00013_09e1577e4f52d426d2065fd9db0a3a1dfd1367bd465da162cbaaa8ad526523ca.png",
-   "pickupEndAt": "1792940340",
-   "pickupStartAt": "1792130400",
-   "startAt": "1792072800",
-   "stylesheetId": "1",
-   "title": "ガチャ「映画公開記念 Ave Mujicaピックアップ」開催！"
   },
   {
    "category": "CAMPAIGN",
@@ -214,15 +183,6 @@
    "startAt": "1790686800",
    "stylesheetId": "1",
    "title": "【完了】スターの所持数が正しく表示されない不具合について"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1792940340",
-   "id": "9",
-   "lastUpdatedAt": "1791265740",
-   "startAt": "1790326800",
-   "stylesheetId": "1",
-   "title": "サービス開始遅延、およびアクセス集中に伴う影響のお詫びについて"
   },
   {
    "category": "BUG",

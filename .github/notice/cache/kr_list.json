@@ -9,6 +9,15 @@
    "title": "【중요】iOS 27 및 최신 iPhone 기기에서의 실행 관련 안내"
   },
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261023_215005_6adb57fd73782_09de156bc8219c60facbb5a7ec3b4e4ad6d009a59954e6333dc59c889efdfcdf.png",
+   "category": "EVENT",
+   "endAt": "1793534340",
+   "id": "100046",
+   "lastUpdatedAt": "1792760623",
+   "startAt": "1792929600",
+   "title": "LIVE 「Virtus」 개최 기념 미션 패스"
+  },
+  {
    "category": "EVENT",
    "endAt": "1793534340",
    "id": "100047",
@@ -67,18 +76,6 @@
    "lastUpdatedAt": "1792067638",
    "startAt": "1792072801",
    "title": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 캠페인 개최!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261015_164423_6ad08457d7d37_82ce7a74f0db9c2ac33fc132fb8bcc7cc45b5fb25492e7578e6f11f21eaa2395.png",
-   "category": "GACHA",
-   "endAt": "1792940399",
-   "id": "100037",
-   "lastUpdatedAt": "1792066888",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261015_164424_6ad08458523e2_b7e822d7ba536ac4764428e3aff04e684551ee27978f89f6c07ced5154740dcb.png",
-   "pickupEndAt": "1792940399",
-   "pickupStartAt": "1792072800",
-   "startAt": "1792072800",
-   "title": "영화「BanG Dream! Ave Mujica prima aurora」공개 기념 Ave Mujica 픽업 뽑기 오픈!"
   },
   {
    "category": "BUG",

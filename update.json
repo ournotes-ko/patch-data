@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "seq": 1792915919,
+ "seq": 1792944768,
  "tag": "v1.0.6-ko-h",
  "title": "v1.0.6 (v106f / 패처 v111 / 패치 앱 1.45)",
  "published": "2026-10-25T08:11:59Z",
@@ -43,14 +43,13 @@
   "dataBuild": 1792770468
  },
  "noticeMap": {
-  "sha256": "f38e3fbcdf29e942028f9aabfc624d41e2918fc277098c0f3df0e17d6fdb6885",
-  "size": 264522,
+  "sha256": "fbef8f6568bdd95aa40dda7e11f082376c904b576b0059bb504cf850be72cd73",
+  "size": 233872,
   "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_notice_map.bin",
   "urls": [
-   "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_notice_map.bin",
-   "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/onp_notice_map.bin"
+   "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_notice_map.bin"
   ],
-  "count": 6,
+  "count": 5,
   "minAppCode": 34
  },
  "game": {
