@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "seq": 1792944768,
+ "seq": 1792983210,
  "tag": "v1.0.6-ko-h",
  "title": "v1.0.6 (v106f / 패처 v111 / 패치 앱 1.45)",
  "published": "2026-10-25T08:11:59Z",
@@ -23,24 +23,24 @@
   "dataBuild": 1792833896
  },
  "images": {
-  "sha256": "f2d3f49d920f7acce35fec5cef592f3522f86dce74cb6592d83af43ee72e8312",
-  "size": 64879166,
-  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1792770468/onp_images.zip",
+  "sha256": "c42e91536b1588da1738894a74d8775482866b59148e4fbe01f683766b397d83",
+  "size": 65600873,
+  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1792983210/onp_images.zip",
   "urls": [
-   "https://github.com/ournotes-ko/patch-data/releases/download/images-1792770468/onp_images.zip"
+   "https://github.com/ournotes-ko/patch-data/releases/download/images-1792983210/onp_images.zip"
   ],
-  "count": 316,
+  "count": 317,
   "minAppCode": 0,
   "manifest": {
-   "sha256": "a345b887c1e517de79662bf27ba8e0a4d05905473cdffebc2e90a2aa4625b0e0",
-   "size": 43110,
+   "sha256": "5c4e914c65999e30c8fe58247fcec3239802b9626baabbac427a07e9c88c9237",
+   "size": 43247,
    "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
    "urls": [
     "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
     "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/images_manifest.json"
    ]
   },
-  "dataBuild": 1792770468
+  "dataBuild": 1792983210
  },
  "noticeMap": {
   "sha256": "fbef8f6568bdd95aa40dda7e11f082376c904b576b0059bb504cf850be72cd73",
