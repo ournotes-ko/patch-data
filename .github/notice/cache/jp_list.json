@@ -33,13 +33,22 @@
    "title": "10/24は朋花の誕生日！"
   },
   {
+   "category": "OTHER",
+   "endAt": "1824389940",
+   "id": "65",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1792648800",
+   "stylesheetId": "1",
+   "title": "Ave Mujica 7th LIVE「Virtus」シリアルコード特典のご案内"
+  },
+  {
    "category": "BUG",
    "endAt": "1821625200",
    "id": "2",
    "lastUpdatedAt": "1792296060",
    "startAt": "1790686800",
    "stylesheetId": "1",
-   "title": "【追記 10/23】現在確認している不具合"
+   "title": "【追記 10/26】現在確認している不具合"
   },
   {
    "category": "CAMPAIGN",
@@ -49,15 +58,6 @@
    "startAt": "1792735200",
    "stylesheetId": "1",
    "title": "オリジナル楽曲「新人類は仮想世界の夢を見るか？」追加！"
-  },
-  {
-   "category": "OTHER",
-   "endAt": "1824389940",
-   "id": "65",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1792648800",
-   "stylesheetId": "1",
-   "title": "Ave Mujica 7th LIVE「Virtus」シリアルコード特典のご案内"
   },
   {
    "category": "OTHER",
