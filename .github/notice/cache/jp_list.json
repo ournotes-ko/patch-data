@@ -1,6 +1,16 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
+   "category": "MAINTENANCE",
+   "endAt": "1793051940",
+   "id": "73",
+   "lastUpdatedAt": "1793017140",
+   "startAt": "1793017800",
+   "stylesheetId": "1",
+   "title": "「Ver.1.1.0」アップデートおよびメンテナンス実施のご案内"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/banner_seasonpass_00006_5e0373e73127d2446322f5202f5604d02ae8818f3a58a8022f7a0b9ae02e5aed.png",
    "category": "CAMPAIGN",
    "endAt": "1793534340",
