@@ -3,12 +3,12 @@
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
    "category": "MAINTENANCE",
-   "endAt": "1793051940",
-   "id": "73",
-   "lastUpdatedAt": "1793017140",
-   "startAt": "1793017800",
+   "endAt": "1793458740",
+   "id": "80",
+   "lastUpdatedAt": "1793048820",
+   "startAt": "1793049300",
    "stylesheetId": "1",
-   "title": "「Ver.1.1.0」アップデートおよびメンテナンス実施のご案内"
+   "title": "メンテナンス終了・「Ver.1.1.0」アップデートに伴う追加メンテナンスのご案内"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/banner_seasonpass_00006_5e0373e73127d2446322f5202f5604d02ae8818f3a58a8022f7a0b9ae02e5aed.png",
@@ -28,19 +28,6 @@
    "startAt": "1792843200",
    "stylesheetId": "1",
    "title": "Ave Mujica 7th LIVE「Virtus」開催記念 特別ログインボーナス！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00020_b0035d4e6970e9cb690937f6795218dd9c027abfbdc1c671a6235f14d2342577.png",
-   "category": "CAMPAIGN",
-   "endAt": "1793026740",
-   "id": "69",
-   "lastUpdatedAt": "1793026740",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_birthday26-27_00002_c6506f643ca7e34f0dc25370368198547e2df81f7c4bbda8d83359205723f9dc.png",
-   "pickupEndAt": "1793026740",
-   "pickupStartAt": "1792767600",
-   "startAt": "1792767600",
-   "stylesheetId": "1",
-   "title": "10/24は朋花の誕生日！"
   },
   {
    "category": "OTHER",
