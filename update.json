@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "seq": 1793088003,
+ "seq": 1793089778,
  "tag": "v1.0.6-ko-h",
  "title": "v1.0.6 (v106f / 패처 v111 / 패치 앱 1.45)",
  "published": "2026-10-25T08:11:59Z",
@@ -12,7 +12,7 @@
   "versionName": "1.45"
  },
  "map": {
-  "sha256": "fe111a5cd1a117e559b5a1535763720eb1348dd5962358c7856b997e1db60d02",
+  "sha256": "c09b838ee6db5fa221c99f409ce872eb1a14af469a6410c9caa0c980f4a739b7",
   "size": 6059818,
   "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_master_map.bin",
   "urls": [
@@ -20,27 +20,27 @@
    "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/onp_master_map.bin"
   ],
   "minAppCode": 0,
-  "dataBuild": 1793088003
+  "dataBuild": 1793089778
  },
  "images": {
-  "sha256": "c42e91536b1588da1738894a74d8775482866b59148e4fbe01f683766b397d83",
-  "size": 65600873,
-  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1792983210/onp_images.zip",
+  "sha256": "9321b5ddc7c012f19673b61e630afa1adcab5387420194eb4657a870fdb29a1b",
+  "size": 65935016,
+  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1793089778/onp_images.zip",
   "urls": [
-   "https://github.com/ournotes-ko/patch-data/releases/download/images-1792983210/onp_images.zip"
+   "https://github.com/ournotes-ko/patch-data/releases/download/images-1793089778/onp_images.zip"
   ],
-  "count": 317,
+  "count": 320,
   "minAppCode": 0,
   "manifest": {
-   "sha256": "5c4e914c65999e30c8fe58247fcec3239802b9626baabbac427a07e9c88c9237",
-   "size": 43247,
+   "sha256": "584b9e95cab87bc3e762153fcfb6dcf07b5573ca7108817b5d4aef54ea1396a6",
+   "size": 43660,
    "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
    "urls": [
     "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
     "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/images_manifest.json"
    ]
   },
-  "dataBuild": 1792983210
+  "dataBuild": 1793089778
  },
  "noticeMap": {
   "sha256": "fbef8f6568bdd95aa40dda7e11f082376c904b576b0059bb504cf850be72cd73",
