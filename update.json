@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "seq": 1793191733,
+ "seq": 1793203767,
  "tag": "v1.0.6-ko-j",
  "title": "v1.0.6 (v106f / 패처 v111 / 패치 앱 1.47)",
  "published": "2026-10-28T10:50:06Z",
@@ -12,35 +12,35 @@
   "versionName": "1.47"
  },
  "map": {
-  "sha256": "c09b838ee6db5fa221c99f409ce872eb1a14af469a6410c9caa0c980f4a739b7",
-  "size": 6059818,
+  "sha256": "a9d63b2a31880a9b39ca03022ba574d0cce726595829f309f572942eb07077c7",
+  "size": 6196314,
   "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_master_map.bin",
   "urls": [
    "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_master_map.bin",
    "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/onp_master_map.bin"
   ],
   "minAppCode": 0,
-  "dataBuild": 1793089778
+  "dataBuild": 1793203767
  },
  "images": {
-  "sha256": "9321b5ddc7c012f19673b61e630afa1adcab5387420194eb4657a870fdb29a1b",
-  "size": 65935016,
-  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1793089778/onp_images.zip",
+  "sha256": "d6d03bf6ba749f177f8abc3142338929bbece2855a45385e18c3566d68c5cb68",
+  "size": 86183920,
+  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1793203767/onp_images.zip",
   "urls": [
-   "https://github.com/ournotes-ko/patch-data/releases/download/images-1793089778/onp_images.zip"
+   "https://github.com/ournotes-ko/patch-data/releases/download/images-1793203767/onp_images.zip"
   ],
-  "count": 320,
+  "count": 405,
   "minAppCode": 0,
   "manifest": {
-   "sha256": "203d2fab1c0b35f7a26070631eec9cd4aa7896a0250dcf23e25eb3a8a03c9099",
-   "size": 43660,
+   "sha256": "90690a8236d31bcefb18184ad5550c3a778de3dfa2c5ebb4b22bb1569999b10e",
+   "size": 55381,
    "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
    "urls": [
     "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
     "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/images_manifest.json"
    ]
   },
-  "dataBuild": 1793089778
+  "dataBuild": 1793203767
  },
  "noticeMap": {
   "sha256": "427380c0e24250f74cbedd60534bdcead4595d2e114bfca3cec31b7967eb85db",
