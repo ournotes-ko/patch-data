@@ -9,13 +9,65 @@
    "title": "【중요】iOS 27 및 최신 iPhone 기기에서의 실행 관련 안내"
   },
   {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_175140_6ae0661c798cf_253dfd822f60aa430bd4714dc81ddd7b32a25a928a8b9629deffb95598f520fc.png",
+   "category": "BUG",
+   "endAt": "1793717940",
+   "id": "100054",
+   "lastUpdatedAt": "1793184367",
+   "startAt": "1793185200",
+   "title": "Ver.1.1.0 「GEKISO ARENA」 접속 오류 보상 안내"
+  },
+  {
    "category": "MAINTENANCE",
-   "endAt": "1793113200",
-   "id": "100048",
-   "lastUpdatedAt": "1793091283",
-   "startAt": "1793091102",
-   "title": "Ver.1.1.0 업데이트 및 점검 안내"
+   "endAt": "1793717940",
+   "id": "100053",
+   "lastUpdatedAt": "1793111237",
+   "startAt": "1793112000",
+   "title": "금일 점검 및 관련 보상에 관한 추가 안내"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225355_6ae0acf3d581a_7febf761c1fc0ed719e137721c21b11f130ba098b0dd89e9e750659ad4a4c83c.png",
+   "category": "EVENT",
+   "endAt": "1794376740",
+   "id": "100052",
+   "lastUpdatedAt": "1793111234",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225328_6ae0acd800c6a_f176dd60dfe44f2278f475df32eccf0694398cf27faa685e6dd44b3977ee2c1d.png",
+   "pickupEndAt": "1794376740",
+   "pickupStartAt": "1793156400",
+   "startAt": "1793156400",
+   "title": "챌린지 라이브 이벤트 「A day〜#HalloweenSnap〜」 개최!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223701_6ae0a8fde85e6_8455cb0b476e97c08d462f6f83e3882f2bba1bdd63837f0a0641e69ba70b9a0a.png",
+   "category": "EVENT",
+   "endAt": "1795845540",
+   "id": "100051",
+   "lastUpdatedAt": "1793111229",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223650_6ae0a8f28756a_5056dc563a8049747e53216442d6321cc4b1e62d74d766e87afe4c9afdfe1604.png",
+   "pickupEndAt": "1795845540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "title": "「격주 아레나 Season 1」 & 「시즌 미션 패스 Season 1」 오픈!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_221051_6ae0a2db097e0_e9110733ba423c1b63410e041b6b550933fec59782863964b20490ee6e7bd8e0.png",
+   "category": "EVENT",
+   "endAt": "1794117540",
+   "id": "100050",
+   "lastUpdatedAt": "1793111224",
+   "startAt": "1793112600",
+   "title": "「격주 아레나 Season 1」 & 할로윈 이벤트·캠페인 오픈 예정!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_214142_6ae09c0600cbc_e63819d73f6f5563dc4f0360ef9e3e48e8e3da3ff79deedb5ef2418fd3c5cc1f.png",
+   "category": "GACHA",
+   "endAt": "1794117540",
+   "id": "100049",
+   "lastUpdatedAt": "1793111220",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_214128_6ae09bf8be712_bbe41500dadf9418161c3d50e640834839a7b3211b41818833cc5dfc903325ed.png",
+   "pickupEndAt": "1794117540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "title": "「어둠의 나이트워커즈 」  뽑기 오픈!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261023_215005_6adb57fd73782_09de156bc8219c60facbb5a7ec3b4e4ad6d009a59954e6333dc59c889efdfcdf.png",
@@ -55,18 +107,6 @@
    "title": "챌린지 라이브 이벤트 「Shake Your 영혼, Baby!!」 개최!"
   },
   {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_213122_6ad2191a263ce_7292b781aa0a2d2954990a3b78bd0d7b1f3697f06b850918b14f6f35375c0592.png",
-   "category": "GACHA",
-   "endAt": "1793167199",
-   "id": "100041",
-   "lastUpdatedAt": "1792163273",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261016_213121_6ad2191938104_93719cc916a53820b20229eec99f37db632b346fe13fd7d353472c2b24642ac2.png",
-   "pickupEndAt": "1793167199",
-   "pickupStartAt": "1792299600",
-   "startAt": "1792299600",
-   "title": "「서막을 울리는 빛의 찬가 」  뽑기 오픈!"
-  },
-  {
    "category": "EVENT",
    "endAt": "1795100399",
    "id": "100038",
@@ -81,30 +121,6 @@
    "lastUpdatedAt": "1790927800",
    "startAt": "1790931600",
    "title": "Ver.1.0.2 현재 확인된 문제 안내"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_222437_6ab3d315c82e2_1c5fcb5a55ae3845949fa93a620ed8fc4fe74c78e8fbe0a91aeced383e51ebf7.png",
-   "category": "CAMPAIGN",
-   "endAt": "1793156399",
-   "id": "100006",
-   "lastUpdatedAt": "1790172103",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_222435_6ab3d31399eae_db604598903edee6bc682001d6abfd2160fa9a658175d5d9472de4b7d962f5b1.png",
-   "pickupEndAt": "1793156399",
-   "pickupStartAt": "1790145000",
-   "startAt": "1790145000",
-   "title": "특별 커버곡 「Abracadabra」 추가 기념 이벤트 개최!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_220109_6ab3cd954f2e5_4e4d80e3cd572b3f581066962decc36d580b2a183034a3004a8e27ea991fe17f.png",
-   "category": "CAMPAIGN",
-   "endAt": "1793156340",
-   "id": "100005",
-   "lastUpdatedAt": "1790172708",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20260923_220109_6ab3cd95e6008_064bd383d70e78719b0408a6ab70f9700db1c07cec910ef0fbbd7073b125cb88.png",
-   "pickupEndAt": "1793156340",
-   "pickupStartAt": "1790143200",
-   "startAt": "1790143200",
-   "title": "「뱅드림! 아워 노트」 정식 서비스 시작!"
   }
  ],
  "externalContents": [

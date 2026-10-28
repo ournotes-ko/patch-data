@@ -1,14 +1,82 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00004_c0cdd0efabb6eb8d095baf4a2466b8f99df0241d327e1c4615636b6ee00526ad.png",
+   "category": "EVENT",
+   "endAt": "1794376740",
+   "id": "84",
+   "lastUpdatedAt": "1794031140",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00004_9458ee2417e2c90d02b7acb88520fc5dfe0f2435eb26a3491f7d0fb6a03c905e.png",
+   "pickupEndAt": "1794031140",
+   "pickupStartAt": "1793156400",
+   "startAt": "1793156400",
+   "stylesheetId": "1",
+   "title": "イベント「A day〜#HalloweenSnap〜」開催！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00016_7cd0d11b14dd2c2631fe6440c08a2b4c3f43998ac5e675c4f86fbe9fce126896.png",
+   "category": "GACHA",
+   "endAt": "1794117540",
+   "id": "82",
+   "lastUpdatedAt": "1793109660",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00016_77d400317889133721cdd34b3fd5c136ccdb6119ef0c4f14935d5fa1795667db.png",
+   "pickupEndAt": "1794117540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "stylesheetId": "1",
+   "title": "「晦冥のナイトウォーカーズガチャ」開催！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
+   "category": "EVENT",
+   "endAt": "1795845540",
+   "id": "81",
+   "lastUpdatedAt": "1793109660",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
+   "pickupEndAt": "1795845540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "stylesheetId": "1",
+   "title": "「撃奏アリーナ Season 1」開催！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00025_3429d440a95a09fd13bd953ffe2ca74e46a1f4a9b53d6f10ea948d33438ebc38.png",
+   "category": "CAMPAIGN",
+   "endAt": "1794117540",
+   "id": "83",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1793113200",
+   "stylesheetId": "1",
+   "title": "「スター増量」「SSR確定ガチャチケット」付きなどのお得なショップ販売！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793372400",
+   "id": "86",
+   "lastUpdatedAt": "1793112720",
+   "startAt": "1793112600",
+   "stylesheetId": "1",
+   "title": "「Ver.1.1.0」で発生している不具合について"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
+   "category": "UPDATE",
+   "endAt": "1793804340",
+   "id": "75",
+   "lastUpdatedAt": "1793183400",
+   "startAt": "1793109600",
+   "stylesheetId": "1",
+   "title": "【追記 10/28】「Ver.1.1.0」アップデート公開のご案内"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
    "category": "MAINTENANCE",
-   "endAt": "1793458740",
-   "id": "80",
-   "lastUpdatedAt": "1793088000",
-   "startAt": "1793049300",
+   "endAt": "1793804340",
+   "id": "74",
+   "lastUpdatedAt": "1793110440",
+   "startAt": "1793109600",
    "stylesheetId": "1",
-   "title": "【追記 10/27】メンテナンス終了・「Ver.1.1.0」アップデートに伴う追加メンテナンスのご案内"
+   "title": "メンテナンス終了のご案内"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/banner_seasonpass_00006_5e0373e73127d2446322f5202f5604d02ae8818f3a58a8022f7a0b9ae02e5aed.png",
@@ -42,10 +110,10 @@
    "category": "BUG",
    "endAt": "1821625200",
    "id": "2",
-   "lastUpdatedAt": "1792296060",
+   "lastUpdatedAt": "1793119800",
    "startAt": "1790686800",
    "stylesheetId": "1",
-   "title": "【追記 10/26】現在確認している不具合"
+   "title": "【追記 10/28】現在確認している不具合"
   },
   {
    "category": "CAMPAIGN",
@@ -73,19 +141,6 @@
    "startAt": "1792562400",
    "stylesheetId": "1",
    "title": "Ave Mujica ミニAlbum「神の名を」リリース！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00014_ef5e59715bee510af3139733c6199485999c762d9e32ec4137fb0f3ef789b7a7.png",
-   "category": "GACHA",
-   "endAt": "1793167140",
-   "id": "54",
-   "lastUpdatedAt": "1793167140",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00014_5bed05da828df30dcef8f33cc2adfb5810bdce4e7d5c9c202059affeaa52b479.png",
-   "pickupEndAt": "1793167140",
-   "pickupStartAt": "1792303200",
-   "startAt": "1792303200",
-   "stylesheetId": "1",
-   "title": "「はじめてを奏でる光彩讃歌ガチャ」開催！"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00003_89d193f211e73de54e6f745ededbb5d837a8229d9615687045518b8aa10434a1.png",
@@ -140,10 +195,10 @@
    "category": "BUG",
    "endAt": "1793458740",
    "id": "26",
-   "lastUpdatedAt": "1792296300",
+   "lastUpdatedAt": "1793109000",
    "startAt": "1790859600",
    "stylesheetId": "1",
-   "title": "【追記 10/06】「Ver.1.0.4」で発生している撃奏スキル・撃奏サポート不具合について"
+   "title": "【完了】「Ver.1.0.4」で発生している撃奏スキル・撃奏サポート不具合について"
   },
   {
    "category": "CAMPAIGN",
@@ -198,19 +253,6 @@
    "startAt": "1790597700",
    "stylesheetId": "1",
    "title": "【追記 09/28】アクセス集中に伴う接続障害の発生経緯と現在の対応状況のご報告"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_release_campaign_19733d0759c3aea7462729247d52415c82e627e0b539590ad0f9b58bbe58fcad.png",
-   "category": "CAMPAIGN",
-   "endAt": "1793167140",
-   "id": "4",
-   "lastUpdatedAt": "1791265320",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_release_campaign_214b8df6fed0fc191c1d64c115afa1c5a4b3cc667757cda1df9c583e635f3cc8.png",
-   "pickupEndAt": "1793167140",
-   "pickupStartAt": "1790175600",
-   "startAt": "1790175600",
-   "stylesheetId": "1",
-   "title": "「バンドリ！アワーノーツ」正式サービス開始！"
   },
   {
    "category": "OTHER",
