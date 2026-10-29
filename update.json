@@ -23,8 +23,8 @@
   "dataBuild": 1793200068
  },
  "images": {
-  "sha256": "8db9cd76425584f7b1a1392d38326e04701f41d46766308245cceaac4c47bdbc",
-  "size": 86679509,
+  "sha256": "d6d03bf6ba749f177f8abc3142338929bbece2855a45385e18c3566d68c5cb68",
+  "size": 86183920,
   "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1793202067/onp_images.zip",
   "urls": [
    "https://github.com/ournotes-ko/patch-data/releases/download/images-1793202067/onp_images.zip"
