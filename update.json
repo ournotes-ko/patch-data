@@ -1,0 +1,74 @@
+{
+ "schema": 2,
+ "seq": 1793281836,
+ "tag": "v1.1.0-ko-d",
+ "title": "v1.1.0 (v110f / 패처 v111 / 패치 앱 1.49)",
+ "published": "2026-10-29T13:50:36Z",
+ "app": {
+  "sha256": "07f3ef470f6530e3e53abccebb2c7c3bcdb517acf4f967ec9ba0898e74825fb7",
+  "size": 4261049,
+  "url": "https://github.com/ournotes-ko/patch/releases/download/v1.1.0-ko-d/OurNotesPatcher.apk",
+  "versionCode": 50,
+  "versionName": "1.49"
+ },
+ "map": {
+  "sha256": "a9d63b2a31880a9b39ca03022ba574d0cce726595829f309f572942eb07077c7",
+  "size": 6196314,
+  "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_master_map.bin",
+  "urls": [
+   "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_master_map.bin",
+   "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/onp_master_map.bin"
+  ],
+  "minAppCode": 0,
+  "dataBuild": 1793200068
+ },
+ "images": {
+  "sha256": "8db9cd76425584f7b1a1392d38326e04701f41d46766308245cceaac4c47bdbc",
+  "size": 86679509,
+  "url": "https://github.com/ournotes-ko/patch-data/releases/download/images-1793202067/onp_images.zip",
+  "urls": [
+   "https://github.com/ournotes-ko/patch-data/releases/download/images-1793202067/onp_images.zip"
+  ],
+  "count": 405,
+  "minAppCode": 0,
+  "manifest": {
+   "sha256": "a141b39a9f4ec63f599aeb2769078bdfe26a677300e37f0a8a2c76e0ccde310f",
+   "size": 55381,
+   "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
+   "urls": [
+    "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/images_manifest.json",
+    "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/images_manifest.json"
+   ]
+  },
+  "dataBuild": 1793202067
+ },
+ "noticeMap": {
+  "sha256": "496e294f137df513234c27e07cf71f3c99a1f939addc10b8276e16ffe34bd535",
+  "size": 104066,
+  "url": "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_notice_map.bin",
+  "urls": [
+   "https://raw.githubusercontent.com/ournotes-ko/patch-data/main/onp_notice_map.bin",
+   "https://cdn.jsdelivr.net/gh/ournotes-ko/patch-data@main/onp_notice_map.bin"
+  ],
+  "count": 2,
+  "minAppCode": 34
+ },
+ "game": {
+  "version": "1.1.0",
+  "build": "v110f",
+  "patcher": "v111",
+  "sha256": "281883150b8a25fe0b1948bf5723891c7ebd3a2f8202028883de87145089e3df",
+  "size": 243648524,
+  "url": "https://drive.google.com/file/d/195tTBb-ptnDnBNiw57YU1jvJ90oviIA9/view?usp=sharing",
+  "mirrors": [
+   {
+    "name": "구글 드라이브",
+    "url": "https://drive.google.com/file/d/195tTBb-ptnDnBNiw57YU1jvJ90oviIA9/view?usp=sharing"
+   },
+   {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/scl/fi/9lctxa8g25ylzuev201ut/OurNotesPatch_ko.apk?rlkey=gbscvzcxfq4h1tbxzrgodtp96&dl=1"
+   }
+  ]
+ }
+}
