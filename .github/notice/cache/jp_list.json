@@ -14,15 +14,6 @@
    "title": "特別カバー楽曲「Abracadabra」追加記念キャンペーン開催！"
   },
   {
-   "category": "BUG",
-   "endAt": "1793372400",
-   "id": "86",
-   "lastUpdatedAt": "1793339760",
-   "startAt": "1793112600",
-   "stylesheetId": "1",
-   "title": "【追記 10/30】「Ver.1.1.0」で発生している不具合について"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00004_c0cdd0efabb6eb8d095baf4a2466b8f99df0241d327e1c4615636b6ee00526ad.png",
    "category": "EVENT",
    "endAt": "1794376740",
@@ -130,15 +121,6 @@
   },
   {
    "category": "CAMPAIGN",
-   "endAt": "1793372340",
-   "id": "68",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1792735200",
-   "stylesheetId": "1",
-   "title": "オリジナル楽曲「新人類は仮想世界の夢を見るか？」追加！"
-  },
-  {
-   "category": "CAMPAIGN",
    "endAt": "1795100340",
    "id": "53",
    "lastUpdatedAt": "-62135596800",
@@ -165,15 +147,6 @@
    "title": "【重要】不正行為に対する措置と今後の対応方針について"
   },
   {
-   "category": "OTHER",
-   "endAt": "1793372400",
-   "id": "32",
-   "lastUpdatedAt": "1791277560",
-   "startAt": "1791279000",
-   "stylesheetId": "1",
-   "title": "【追記 10/08】イベントに関するご意見と今後のバランス調整について"
-  },
-  {
    "category": "BUG",
    "endAt": "1793804340",
    "id": "26",
@@ -190,33 +163,6 @@
    "startAt": "1790661600",
    "stylesheetId": "1",
    "title": "「夢限大みゅーたいぷ」「millsage」「一家Dumb Rock!」Singleリリース！"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1793372400",
-   "id": "14",
-   "lastUpdatedAt": "1791265500",
-   "startAt": "1790758800",
-   "stylesheetId": "1",
-   "title": "【完了】イベント「アイの奔流 AtoZ」延期と今後の対応について"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1793372400",
-   "id": "11",
-   "lastUpdatedAt": "1791265620",
-   "startAt": "1790686800",
-   "stylesheetId": "1",
-   "title": "【完了】スターの所持数が正しく表示されない不具合について"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1793372400",
-   "id": "15",
-   "lastUpdatedAt": "1791265380",
-   "startAt": "1790597700",
-   "stylesheetId": "1",
-   "title": "撃奏ライブにおけるマッチングエラーについて"
   },
   {
    "category": "BUG",
