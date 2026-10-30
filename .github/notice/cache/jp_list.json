@@ -1,6 +1,28 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_Abracadabra_7d820d3b609429bae913e8cdc788c69002e3a7ab8ae9c4ecd8287fde26d0f0ab.png",
+   "category": "CAMPAIGN",
+   "endAt": "1821625200",
+   "id": "87",
+   "lastUpdatedAt": "1796363940",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_Abracadabra_c2f41ea8c8c412001b9324db3c7eb8f97e10992e4107639426d1fae4be1015c8.png",
+   "pickupEndAt": "1796363940",
+   "pickupStartAt": "1793340000",
+   "startAt": "1793340000",
+   "stylesheetId": "1",
+   "title": "特別カバー楽曲「Abracadabra」追加記念キャンペーン開催！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1793372400",
+   "id": "86",
+   "lastUpdatedAt": "1793339760",
+   "startAt": "1793112600",
+   "stylesheetId": "1",
+   "title": "【追記 10/30】「Ver.1.1.0」で発生している不具合について"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00004_c0cdd0efabb6eb8d095baf4a2466b8f99df0241d327e1c4615636b6ee00526ad.png",
    "category": "EVENT",
    "endAt": "1794376740",
@@ -48,15 +70,6 @@
    "startAt": "1793113200",
    "stylesheetId": "1",
    "title": "「スター増量」「SSR確定ガチャチケット」付きなどのお得なショップ販売！"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1793372400",
-   "id": "86",
-   "lastUpdatedAt": "1793112720",
-   "startAt": "1793112600",
-   "stylesheetId": "1",
-   "title": "「Ver.1.1.0」で発生している不具合について"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
@@ -125,19 +138,6 @@
    "title": "オリジナル楽曲「新人類は仮想世界の夢を見るか？」追加！"
   },
   {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00003_89d193f211e73de54e6f745ededbb5d837a8229d9615687045518b8aa10434a1.png",
-   "category": "EVENT",
-   "endAt": "1793339940",
-   "id": "56",
-   "lastUpdatedAt": "1792994340",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00003_623aa3dfa8e9ad7d9554cd356d4a9fd59ccf3939c5d8cb1154518d8a9fa109da.png",
-   "pickupEndAt": "1792994340",
-   "pickupStartAt": "1792303200",
-   "startAt": "1792303200",
-   "stylesheetId": "1",
-   "title": "イベント「Shake Your 魂, Baby!!」開催！"
-  },
-  {
    "category": "CAMPAIGN",
    "endAt": "1795100340",
    "id": "53",
@@ -166,7 +166,7 @@
   },
   {
    "category": "OTHER",
-   "endAt": "1793458740",
+   "endAt": "1793372400",
    "id": "32",
    "lastUpdatedAt": "1791277560",
    "startAt": "1791279000",
@@ -175,7 +175,7 @@
   },
   {
    "category": "BUG",
-   "endAt": "1793458740",
+   "endAt": "1793804340",
    "id": "26",
    "lastUpdatedAt": "1793109000",
    "startAt": "1790859600",
