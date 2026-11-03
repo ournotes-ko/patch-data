@@ -1,6 +1,19 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00028_ef0a2afb4a5c44f89c0775c16b3fb1d6d498fef7e4a8d03efc7f98079ffb629f.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793977140",
+   "id": "89",
+   "lastUpdatedAt": "1793718540",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_birthday26-27_00003_7d7dae30106499ede35f327857902528d0b44c2a552bf3624d96d8eab46ae43e.png",
+   "pickupEndAt": "1793977140",
+   "pickupStartAt": "1793718000",
+   "startAt": "1793718000",
+   "stylesheetId": "1",
+   "title": "11/04はユノの誕生日！"
+  },
+  {
    "category": "CAMPAIGN",
    "endAt": "1794236340",
    "id": "88",

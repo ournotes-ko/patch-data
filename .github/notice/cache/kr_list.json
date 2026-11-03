@@ -1,20 +1,16 @@
 {
  "announcements": [
   {
-   "category": "BUG",
-   "endAt": "1793717940",
-   "id": "100054",
-   "lastUpdatedAt": "1793267661",
-   "startAt": "1793185200",
-   "title": "Ver.1.1.0 「격주 아레나」 연결 오류 관련 보상 안내"
-  },
-  {
-   "category": "MAINTENANCE",
-   "endAt": "1793717940",
-   "id": "100053",
-   "lastUpdatedAt": "1793111237",
-   "startAt": "1793112000",
-   "title": "금일 점검 및 관련 보상에 관한 추가 안내"
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261103_205622_6ae9cbe67fe6b_0ae48b3b1190ce3ac068a36381cb3bed1b4e41d5e989ce2c183662f95840ca9e.png",
+   "category": "CAMPAIGN",
+   "endAt": "1793977140",
+   "id": "100055",
+   "lastUpdatedAt": "1793707577",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261103_205622_6ae9cbe6e7730_0ce572ac1817f9e00abcb2928d500df741d6220855160ed74c5d8b3f3691b6ad.png",
+   "pickupEndAt": "1793977140",
+   "pickupStartAt": "1793718000",
+   "startAt": "1793718000",
+   "title": "Happy Birthday, 유노!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225355_6ae0acf3d581a_7febf761c1fc0ed719e137721c21b11f130ba098b0dd89e9e750659ad4a4c83c.png",
