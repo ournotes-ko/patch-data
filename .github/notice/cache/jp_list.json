@@ -85,26 +85,6 @@
    "title": "「スター増量」「SSR確定ガチャチケット」付きなどのお得なショップ販売！"
   },
   {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
-   "category": "UPDATE",
-   "endAt": "1793804340",
-   "id": "75",
-   "lastUpdatedAt": "1793183400",
-   "startAt": "1793109600",
-   "stylesheetId": "1",
-   "title": "【追記 10/28】「Ver.1.1.0」アップデート公開のご案内"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
-   "category": "MAINTENANCE",
-   "endAt": "1793804340",
-   "id": "74",
-   "lastUpdatedAt": "1793110440",
-   "startAt": "1793109600",
-   "stylesheetId": "1",
-   "title": "メンテナンス終了のご案内"
-  },
-  {
    "category": "OTHER",
    "endAt": "1824389940",
    "id": "65",
@@ -148,15 +128,6 @@
    "startAt": "1791525600",
    "stylesheetId": "1",
    "title": "【重要】不正行為に対する措置と今後の対応方針について"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1793804340",
-   "id": "26",
-   "lastUpdatedAt": "1793109000",
-   "startAt": "1790859600",
-   "stylesheetId": "1",
-   "title": "【完了】「Ver.1.0.4」で発生している撃奏スキル・撃奏サポート不具合について"
   },
   {
    "category": "CAMPAIGN",
