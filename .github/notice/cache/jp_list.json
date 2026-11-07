@@ -1,6 +1,26 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00023_1ef09a6c20c3e5c64105acdbbe10f8fd5d6c9ee091664b441ecdf5e493dc855d.png",
+   "category": "GACHA",
+   "endAt": "1794117540",
+   "id": "90",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794042000",
+   "stylesheetId": "1",
+   "title": "「光降る宮殿のエピソディウムガチャ」開催予告！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00005_a7b9e48fb2c2149baa81f16524263ddcf6b0423294f0324910cb189f8518bc80.png",
+   "category": "EVENT",
+   "endAt": "1794117540",
+   "id": "91",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794042000",
+   "stylesheetId": "1",
+   "title": "イベント「移ろう月のサルタティオ」開催予告！"
+  },
+  {
    "category": "CAMPAIGN",
    "endAt": "1794236340",
    "id": "88",

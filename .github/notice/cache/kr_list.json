@@ -1,6 +1,24 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_200438_6aedb4462c37c_6b1b166d8dac9863e687dc61d1f82e54bd0b61dd07b888752b532bc43f221581.png",
+   "category": "EVENT",
+   "endAt": "1794117540",
+   "id": "100058",
+   "lastUpdatedAt": "1793965944",
+   "startAt": "1794042000",
+   "title": "챌린지 라이브 이벤트 「흐르는 달의 살타티오」 개최 예정!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_181100_6aed99a4402ec_c78cca07c65329da70b5b8433a11f67c3b86a9f359d26ac87f4a4482d0cf1b16.png",
+   "category": "GACHA",
+   "endAt": "1794117540",
+   "id": "100056",
+   "lastUpdatedAt": "1793965888",
+   "startAt": "1794042000",
+   "title": "「빛 내리는 궁전의 에피소드움 뽑기」 개최 예정!"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225355_6ae0acf3d581a_7febf761c1fc0ed719e137721c21b11f130ba098b0dd89e9e750659ad4a4c83c.png",
    "category": "EVENT",
    "endAt": "1794376740",
