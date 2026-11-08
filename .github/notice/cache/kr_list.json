@@ -3,20 +3,26 @@
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_200438_6aedb4462c37c_6b1b166d8dac9863e687dc61d1f82e54bd0b61dd07b888752b532bc43f221581.png",
    "category": "EVENT",
-   "endAt": "1794117540",
-   "id": "100058",
-   "lastUpdatedAt": "1793965944",
-   "startAt": "1794042000",
-   "title": "챌린지 라이브 이벤트 「흐르는 달의 살타티오」 개최 예정!"
+   "endAt": "1795240799",
+   "id": "100059",
+   "lastUpdatedAt": "1793965948",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_200714_6aedb4e2695f4.png",
+   "pickupEndAt": "1795240799",
+   "pickupStartAt": "1794117600",
+   "startAt": "1794117600",
+   "title": "챌린지 라이브 이벤트 「흐르는 달의 살타티오」 개최!"
   },
   {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_181100_6aed99a4402ec_c78cca07c65329da70b5b8433a11f67c3b86a9f359d26ac87f4a4482d0cf1b16.png",
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_183405_6aed9f0d625ed_c4be812d5e8455b8d2c111f6906130aa00ff72e44f02b7f6f3b17200ca51c185.png",
    "category": "GACHA",
-   "endAt": "1794117540",
-   "id": "100056",
-   "lastUpdatedAt": "1793965888",
-   "startAt": "1794042000",
-   "title": "「빛 내리는 궁전의 에피소드움 뽑기」 개최 예정!"
+   "endAt": "1794981540",
+   "id": "100057",
+   "lastUpdatedAt": "1793965941",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_183404_6aed9f0cdea7a_eae199423fb1a42677c06538b36ea57fe2d34f4a2029356fe42c09736a7078be.png",
+   "pickupEndAt": "1794981540",
+   "pickupStartAt": "1794117600",
+   "startAt": "1794117600",
+   "title": "「빛 내리는 궁전의 에피소드움 뽑기」 개최!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225355_6ae0acf3d581a_7febf761c1fc0ed719e137721c21b11f130ba098b0dd89e9e750659ad4a4c83c.png",
@@ -41,27 +47,6 @@
    "pickupStartAt": "1793113200",
    "startAt": "1793113200",
    "title": "「격주 아레나 Season 1」 & 「시즌 미션 패스 Season 1」 오픈!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_221051_6ae0a2db097e0_e9110733ba423c1b63410e041b6b550933fec59782863964b20490ee6e7bd8e0.png",
-   "category": "EVENT",
-   "endAt": "1794117540",
-   "id": "100050",
-   "lastUpdatedAt": "1793111224",
-   "startAt": "1793112600",
-   "title": "「격주 아레나 Season 1」 & 할로윈 이벤트·캠페인 오픈 예정!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_214142_6ae09c0600cbc_e63819d73f6f5563dc4f0360ef9e3e48e8e3da3ff79deedb5ef2418fd3c5cc1f.png",
-   "category": "GACHA",
-   "endAt": "1794117540",
-   "id": "100049",
-   "lastUpdatedAt": "1793111220",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_214128_6ae09bf8be712_bbe41500dadf9418161c3d50e640834839a7b3211b41818833cc5dfc903325ed.png",
-   "pickupEndAt": "1794117540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "title": "「어둠의 나이트워커즈 」  뽑기 오픈!"
   },
   {
    "category": "EVENT",

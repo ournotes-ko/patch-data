@@ -3,22 +3,28 @@
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00023_1ef09a6c20c3e5c64105acdbbe10f8fd5d6c9ee091664b441ecdf5e493dc855d.png",
    "category": "GACHA",
-   "endAt": "1794117540",
-   "id": "90",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1794042000",
+   "endAt": "1794981540",
+   "id": "93",
+   "lastUpdatedAt": "1794981540",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00023_bdaf822e84373dd7955781ff74054b4348595cc585046a2127c0bb0573e0c710.png",
+   "pickupEndAt": "1794981540",
+   "pickupStartAt": "1794117600",
+   "startAt": "1794117600",
    "stylesheetId": "1",
-   "title": "「光降る宮殿のエピソディウムガチャ」開催予告！"
+   "title": "「光降る宮殿のエピソディウムガチャ」開催！"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00005_a7b9e48fb2c2149baa81f16524263ddcf6b0423294f0324910cb189f8518bc80.png",
    "category": "EVENT",
-   "endAt": "1794117540",
-   "id": "91",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1794042000",
+   "endAt": "1795240740",
+   "id": "92",
+   "lastUpdatedAt": "1794895140",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00005_48b59df70ba8149575b1840c29423a50fc5707844328bbd775f022a45f749f34.png",
+   "pickupEndAt": "1794895140",
+   "pickupStartAt": "1794117600",
+   "startAt": "1794117600",
    "stylesheetId": "1",
-   "title": "イベント「移ろう月のサルタティオ」開催予告！"
+   "title": "イベント「移ろう月のサルタティオ」開催！"
   },
   {
    "category": "CAMPAIGN",
@@ -56,19 +62,6 @@
    "title": "【追記 10/29】イベント「A day〜#HalloweenSnap〜」開催！"
   },
   {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00016_7cd0d11b14dd2c2631fe6440c08a2b4c3f43998ac5e675c4f86fbe9fce126896.png",
-   "category": "GACHA",
-   "endAt": "1794117540",
-   "id": "82",
-   "lastUpdatedAt": "1793109660",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00016_77d400317889133721cdd34b3fd5c136ccdb6119ef0c4f14935d5fa1795667db.png",
-   "pickupEndAt": "1794117540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "stylesheetId": "1",
-   "title": "「晦冥のナイトウォーカーズガチャ」開催！"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
    "category": "EVENT",
    "endAt": "1795845540",
@@ -80,16 +73,6 @@
    "startAt": "1793113200",
    "stylesheetId": "1",
    "title": "「撃奏アリーナ Season 1」開催！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00025_3429d440a95a09fd13bd953ffe2ca74e46a1f4a9b53d6f10ea948d33438ebc38.png",
-   "category": "CAMPAIGN",
-   "endAt": "1794117540",
-   "id": "83",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1793113200",
-   "stylesheetId": "1",
-   "title": "「スター増量」「SSR確定ガチャチケット」付きなどのお得なショップ販売！"
   },
   {
    "category": "OTHER",
