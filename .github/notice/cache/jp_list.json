@@ -1,6 +1,25 @@
 {
  "announcements": [
   {
+   "category": "CAMPAIGN",
+   "endAt": "1826204340",
+   "id": "95",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794301200",
+   "stylesheetId": "1",
+   "title": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 - シリアルコード特典のご案内"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_sepia_single_release_8c3504ee8e1e32c14e0986d9f4cbd101c7b79b4e3aa5def4f29f1c7db5e15435.png",
+   "category": "CAMPAIGN",
+   "endAt": "1795013940",
+   "id": "94",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794279600",
+   "stylesheetId": "1",
+   "title": "MyGO!!!!! 9th Single「世点彩」リリース記念！"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00023_1ef09a6c20c3e5c64105acdbbe10f8fd5d6c9ee091664b441ecdf5e493dc855d.png",
    "category": "GACHA",
    "endAt": "1794981540",

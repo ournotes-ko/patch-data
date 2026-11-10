@@ -1,6 +1,15 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261109_195203_6af1a5d33535e_a44f651594f602c09c5a4e4889765f6854e1926494c1cecb4a766f4c32601282.png",
+   "category": "EVENT",
+   "endAt": "1795013999",
+   "id": "100060",
+   "lastUpdatedAt": "1794223318",
+   "startAt": "1794279600",
+   "title": "MyGO!!!!! 9th Single 「세피아」(世点彩) 발매 기념!"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_200438_6aedb4462c37c_6b1b166d8dac9863e687dc61d1f82e54bd0b61dd07b888752b532bc43f221581.png",
    "category": "EVENT",
    "endAt": "1795240799",
