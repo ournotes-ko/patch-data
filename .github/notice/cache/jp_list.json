@@ -1,6 +1,16 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary_00003_e19758825aadbd34029902ecec1660f2e8bb30f1551f06f87a0ad43a15ea96a3.png",
+   "category": "CAMPAIGN",
+   "endAt": "1794927540",
+   "id": "97",
+   "lastUpdatedAt": "1794380880",
+   "startAt": "1794387600",
+   "stylesheetId": "1",
+   "title": "夢限大みゅーたいぷ バンド記念日 キャンペーン予告！"
+  },
+  {
    "category": "CAMPAIGN",
    "endAt": "1826204340",
    "id": "95",
@@ -18,6 +28,15 @@
    "startAt": "1794279600",
    "stylesheetId": "1",
    "title": "MyGO!!!!! 9th Single「世点彩」リリース記念！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1821625200",
+   "id": "2",
+   "lastUpdatedAt": "1794378720",
+   "startAt": "1790686800",
+   "stylesheetId": "1",
+   "title": "【追記 11/11】現在確認している不具合"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00023_1ef09a6c20c3e5c64105acdbbe10f8fd5d6c9ee091664b441ecdf5e493dc855d.png",
@@ -59,19 +78,6 @@
    "title": "特別カバー楽曲「Abracadabra」追加記念キャンペーン開催！"
   },
   {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00004_c0cdd0efabb6eb8d095baf4a2466b8f99df0241d327e1c4615636b6ee00526ad.png",
-   "category": "EVENT",
-   "endAt": "1794376740",
-   "id": "84",
-   "lastUpdatedAt": "1794031140",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_event_00004_9458ee2417e2c90d02b7acb88520fc5dfe0f2435eb26a3491f7d0fb6a03c905e.png",
-   "pickupEndAt": "1794031140",
-   "pickupStartAt": "1793156400",
-   "startAt": "1793156400",
-   "stylesheetId": "1",
-   "title": "【追記 10/29】イベント「A day〜#HalloweenSnap〜」開催！"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
    "category": "EVENT",
    "endAt": "1795845540",
@@ -92,15 +98,6 @@
    "startAt": "1792648800",
    "stylesheetId": "1",
    "title": "Ave Mujica 7th LIVE「Virtus」シリアルコード特典のご案内"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1821625200",
-   "id": "2",
-   "lastUpdatedAt": "1793621640",
-   "startAt": "1790686800",
-   "stylesheetId": "1",
-   "title": "【追記 11/02】現在確認している不具合"
   },
   {
    "category": "CAMPAIGN",

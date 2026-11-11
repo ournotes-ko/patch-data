@@ -1,6 +1,15 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261110_213906_6af3106a19e08_59fade3dbf979cfe76cf2bcbdb214d10e1f209b92a67e1c2286752711b24906e.png",
+   "category": "EVENT",
+   "endAt": "1794927540",
+   "id": "100062",
+   "lastUpdatedAt": "1794380956",
+   "startAt": "1794387600",
+   "title": "무겐다이 뮤타입 밴드 기념일 캠페인 개최 예정!"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261109_195203_6af1a5d33535e_a44f651594f602c09c5a4e4889765f6854e1926494c1cecb4a766f4c32601282.png",
    "category": "EVENT",
    "endAt": "1795013999",
@@ -32,18 +41,6 @@
    "pickupStartAt": "1794117600",
    "startAt": "1794117600",
    "title": "「빛 내리는 궁전의 에피소드움 뽑기」 개최!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225355_6ae0acf3d581a_7febf761c1fc0ed719e137721c21b11f130ba098b0dd89e9e750659ad4a4c83c.png",
-   "category": "EVENT",
-   "endAt": "1794376740",
-   "id": "100052",
-   "lastUpdatedAt": "1793111234",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_225328_6ae0acd800c6a_f176dd60dfe44f2278f475df32eccf0694398cf27faa685e6dd44b3977ee2c1d.png",
-   "pickupEndAt": "1794376740",
-   "pickupStartAt": "1793156400",
-   "startAt": "1793156400",
-   "title": "챌린지 라이브 이벤트 「A day〜#HalloweenSnap〜」 개최!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223701_6ae0a8fde85e6_8455cb0b476e97c08d462f6f83e3882f2bba1bdd63837f0a0641e69ba70b9a0a.png",
