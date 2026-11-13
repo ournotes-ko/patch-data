@@ -1,6 +1,19 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
+   "category": "EVENT",
+   "endAt": "1795845540",
+   "id": "81",
+   "lastUpdatedAt": "1793109660",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
+   "pickupEndAt": "1795845540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "stylesheetId": "1",
+   "title": "【追記 11/13】「撃奏アリーナ Season 1」開催！"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary_00003_e19758825aadbd34029902ecec1660f2e8bb30f1551f06f87a0ad43a15ea96a3.png",
    "category": "CAMPAIGN",
    "endAt": "1794927540",
@@ -76,19 +89,6 @@
    "startAt": "1793340000",
    "stylesheetId": "1",
    "title": "特別カバー楽曲「Abracadabra」追加記念キャンペーン開催！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
-   "category": "EVENT",
-   "endAt": "1795845540",
-   "id": "81",
-   "lastUpdatedAt": "1793109660",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
-   "pickupEndAt": "1795845540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "stylesheetId": "1",
-   "title": "「撃奏アリーナ Season 1」開催！"
   },
   {
    "category": "OTHER",
