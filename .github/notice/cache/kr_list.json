@@ -1,6 +1,14 @@
 {
  "announcements": [
   {
+   "category": "OTHER",
+   "endAt": "1796137140",
+   "id": "100063",
+   "lastUpdatedAt": "1794570510",
+   "startAt": "1794570000",
+   "title": "「격주 아레나 교환소」 뽑기 티켓 변경 및 이용 기한 안내"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261110_213906_6af3106a19e08_59fade3dbf979cfe76cf2bcbdb214d10e1f209b92a67e1c2286752711b24906e.png",
    "category": "EVENT",
    "endAt": "1794927540",
