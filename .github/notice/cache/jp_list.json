@@ -1,6 +1,15 @@
 {
  "announcements": [
   {
+   "category": "CAMPAIGN",
+   "endAt": "1795618740",
+   "id": "103",
+   "lastUpdatedAt": "1794799920",
+   "startAt": "1794808800",
+   "stylesheetId": "1",
+   "title": "海外版 特別施策連動ログインボーナス！"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
    "category": "EVENT",
    "endAt": "1795845540",
