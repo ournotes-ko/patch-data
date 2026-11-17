@@ -1,6 +1,24 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174255_6afc138f5f04e_13deecc41f05792428187109140623c92a007d9545c9f07aeeea5c2cf6bce7c5.png",
+   "category": "EVENT",
+   "endAt": "1794981599",
+   "id": "100066",
+   "lastUpdatedAt": "1794908063",
+   "startAt": "1794906000",
+   "title": "이벤트 「너는 마루 군」 개최 예정!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_171914_6afc0e0207f6c_51a8ef74f3973c855b8271f3a86a42b53c7d7a5abeeeef91b7b6a802f4aa27d8.png",
+   "category": "GACHA",
+   "endAt": "1794981599",
+   "id": "100064",
+   "lastUpdatedAt": "1794908023",
+   "startAt": "1794906000",
+   "title": "「착한 아이들을 위한 새로운 시대의 트레이닝 뽑기」 개최 예정!"
+  },
+  {
    "category": "OTHER",
    "endAt": "1796137140",
    "id": "100063",

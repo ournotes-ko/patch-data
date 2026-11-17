@@ -1,6 +1,39 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00024_4e0b56bc02379e0645b7e96dd39baad2c840a591680566c66c4c9964071013ff.png",
+   "category": "GACHA",
+   "endAt": "1794981540",
+   "id": "98",
+   "lastUpdatedAt": "1794898920",
+   "startAt": "1794906000",
+   "stylesheetId": "1",
+   "title": "「よい子のための新時代トレーニングガチャ」開催予告！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00006_cea1ae3aeffa37df720f1be430b917a0668026c7ae349cbe4385c8e028303d34.png",
+   "category": "EVENT",
+   "endAt": "1794981540",
+   "id": "99",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794906000",
+   "stylesheetId": "1",
+   "title": "イベント「きみはまるくん」開催予告！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
+   "category": "EVENT",
+   "endAt": "1795845540",
+   "id": "81",
+   "lastUpdatedAt": "1794901500",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
+   "pickupEndAt": "1795845540",
+   "pickupStartAt": "1793113200",
+   "startAt": "1793113200",
+   "stylesheetId": "1",
+   "title": "【追記 11/17】「撃奏アリーナ Season 1」開催！"
+  },
+  {
    "category": "CAMPAIGN",
    "endAt": "1795618740",
    "id": "103",
@@ -8,19 +41,6 @@
    "startAt": "1794808800",
    "stylesheetId": "1",
    "title": "海外版 特別施策連動ログインボーナス！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
-   "category": "EVENT",
-   "endAt": "1795845540",
-   "id": "81",
-   "lastUpdatedAt": "1793109660",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
-   "pickupEndAt": "1795845540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "stylesheetId": "1",
-   "title": "【追記 11/13】「撃奏アリーナ Season 1」開催！"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/banner_seasonpass_00010_e0c5dfd3f017dda84d9b8c22c7825cef68a3ea74acaa0a83580ec00d44565e4c.png",
