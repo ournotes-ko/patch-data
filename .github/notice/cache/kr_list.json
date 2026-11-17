@@ -1,6 +1,18 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_212111_6afc46b7e197d_b5a490770708f197fd1d012addc37d2ed889183c56f5131d6a92c9aecf919d89.png",
+   "category": "CAMPAIGN",
+   "endAt": "1795186799",
+   "id": "100068",
+   "lastUpdatedAt": "1794918313",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_212129_6afc46c961f95_49204946e31e90e0774102cc55243ae01fcd50a2e670180447ed81d16bfa84ff.png",
+   "pickupEndAt": "1795186799",
+   "pickupStartAt": "1794927600",
+   "startAt": "1794927600",
+   "title": "무겐다이 뮤타입 밴드 기념일 캠페인!"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174255_6afc138f5f04e_13deecc41f05792428187109140623c92a007d9545c9f07aeeea5c2cf6bce7c5.png",
    "category": "EVENT",
    "endAt": "1794981599",
@@ -25,15 +37,6 @@
    "lastUpdatedAt": "1794570510",
    "startAt": "1794570000",
    "title": "「격주 아레나 교환소」 뽑기 티켓 변경 및 이용 기한 안내"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261110_213906_6af3106a19e08_59fade3dbf979cfe76cf2bcbdb214d10e1f209b92a67e1c2286752711b24906e.png",
-   "category": "EVENT",
-   "endAt": "1794927540",
-   "id": "100062",
-   "lastUpdatedAt": "1794380956",
-   "startAt": "1794387600",
-   "title": "무겐다이 뮤타입 밴드 기념일 캠페인 개최 예정!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261109_201220_6af1aa94ca185_f6174a0ca296664b15c8918dc0d167b1d2903b32c78d253a5fdcacb7c8ed1abc.png",

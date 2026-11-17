@@ -1,6 +1,28 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary26_00003_7bac350abc485f3c82d00699dd2ed3dde2b1ebaebcde0cec9a62ee44938452e2.png",
+   "category": "CAMPAIGN",
+   "endAt": "1795186740",
+   "id": "102",
+   "lastUpdatedAt": "1794934860",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_band_anniversary26_00003_c290e054792eaaf00a4cc82d5c462a54f8fe022f4c2fb7b678a7a4100a1d6094.png",
+   "pickupEndAt": "1795186740",
+   "pickupStartAt": "1794927600",
+   "startAt": "1794927600",
+   "stylesheetId": "1",
+   "title": "【追記 11/18】夢限大みゅーたいぷ バンド記念日 キャンペーン！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1796050740",
+   "id": "105",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794927600",
+   "stylesheetId": "1",
+   "title": "【追記 11/18】「ショップ」機能メンテナンス実施のご案内"
+  },
+  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00024_4e0b56bc02379e0645b7e96dd39baad2c840a591680566c66c4c9964071013ff.png",
    "category": "GACHA",
    "endAt": "1794981540",
@@ -51,16 +73,6 @@
    "startAt": "1794625200",
    "stylesheetId": "1",
    "title": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」- 神戸再景編 -開催記念 ミッションパス開催！"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary_00003_e19758825aadbd34029902ecec1660f2e8bb30f1551f06f87a0ad43a15ea96a3.png",
-   "category": "CAMPAIGN",
-   "endAt": "1794927540",
-   "id": "97",
-   "lastUpdatedAt": "1794380880",
-   "startAt": "1794387600",
-   "stylesheetId": "1",
-   "title": "夢限大みゅーたいぷ バンド記念日 キャンペーン予告！"
   },
   {
    "category": "CAMPAIGN",
