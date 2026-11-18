@@ -2,6 +2,14 @@
  "announcements": [
   {
    "category": "BUG",
+   "endAt": "1795759199",
+   "id": "100070",
+   "lastUpdatedAt": "1795010291",
+   "startAt": "1795010400",
+   "title": "이벤트 배지 보유 수량이 초기화되지 않은 문제 안내"
+  },
+  {
+   "category": "BUG",
    "endAt": "1795186799",
    "id": "100069",
    "lastUpdatedAt": "1794972774",
@@ -60,15 +68,6 @@
    "lastUpdatedAt": "1794223322",
    "startAt": "1794625200",
    "title": "MyGO!!!!! 9th LIVE 「つなぎ目の向こうに」- 神戸再景編 - 기념 캠페인 개최!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261109_195203_6af1a5d33535e_a44f651594f602c09c5a4e4889765f6854e1926494c1cecb4a766f4c32601282.png",
-   "category": "EVENT",
-   "endAt": "1795013999",
-   "id": "100060",
-   "lastUpdatedAt": "1794223318",
-   "startAt": "1794279600",
-   "title": "MyGO!!!!! 9th Single 「세피아」(世点彩) 발매 기념!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_200438_6aedb4462c37c_6b1b166d8dac9863e687dc61d1f82e54bd0b61dd07b888752b532bc43f221581.png",
