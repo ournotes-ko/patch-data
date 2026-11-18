@@ -1,6 +1,14 @@
 {
  "announcements": [
   {
+   "category": "BUG",
+   "endAt": "1795186799",
+   "id": "100069",
+   "lastUpdatedAt": "1794972774",
+   "startAt": "1794970800",
+   "title": "패키지 판매 가격 오류 수정 안내"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_212111_6afc46b7e197d_b5a490770708f197fd1d012addc37d2ed889183c56f5131d6a92c9aecf919d89.png",
    "category": "CAMPAIGN",
    "endAt": "1795186799",
