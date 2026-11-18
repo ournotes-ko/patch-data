@@ -23,20 +23,26 @@
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174255_6afc138f5f04e_13deecc41f05792428187109140623c92a007d9545c9f07aeeea5c2cf6bce7c5.png",
    "category": "EVENT",
-   "endAt": "1794981599",
-   "id": "100066",
-   "lastUpdatedAt": "1794908063",
-   "startAt": "1794906000",
-   "title": "이벤트 「너는 마루 군」 개최 예정!"
+   "endAt": "1796104740",
+   "id": "100067",
+   "lastUpdatedAt": "1794909128",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174256_6afc139000841_c0c4d024f9c71345f738e210cab2028778f8cb39316739a777e2d53c630b00b0.png",
+   "pickupEndAt": "1796104740",
+   "pickupStartAt": "1794981600",
+   "startAt": "1794981600",
+   "title": "챌린지 라이브 이벤트 「너는 마루 군」 개최!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_171914_6afc0e0207f6c_51a8ef74f3973c855b8271f3a86a42b53c7d7a5abeeeef91b7b6a802f4aa27d8.png",
    "category": "GACHA",
-   "endAt": "1794981599",
-   "id": "100064",
-   "lastUpdatedAt": "1794908023",
-   "startAt": "1794906000",
-   "title": "「착한 아이들을 위한 새로운 시대의 트레이닝 뽑기」 개최 예정!"
+   "endAt": "1795931999",
+   "id": "100065",
+   "lastUpdatedAt": "1794908027",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_171919_6afc0e07f0e44_fdf36877c2d6a4feb6923c931adee28fe2d60be3fb15b9b5df03e8fe7230f1f8.png",
+   "pickupEndAt": "1795931999",
+   "pickupStartAt": "1794981600",
+   "startAt": "1794981600",
+   "title": "「착한 아이들을 위한 새로운 시대의 트레이닝 뽑기」 개최!"
   },
   {
    "category": "OTHER",
@@ -75,18 +81,6 @@
    "pickupStartAt": "1794117600",
    "startAt": "1794117600",
    "title": "챌린지 라이브 이벤트 「흐르는 달의 살타티오」 개최!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_183405_6aed9f0d625ed_c4be812d5e8455b8d2c111f6906130aa00ff72e44f02b7f6f3b17200ca51c185.png",
-   "category": "GACHA",
-   "endAt": "1794981540",
-   "id": "100057",
-   "lastUpdatedAt": "1793965941",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261106_183404_6aed9f0cdea7a_eae199423fb1a42677c06538b36ea57fe2d34f4a2029356fe42c09736a7078be.png",
-   "pickupEndAt": "1794981540",
-   "pickupStartAt": "1794117600",
-   "startAt": "1794117600",
-   "title": "「빛 내리는 궁전의 에피소드움 뽑기」 개최!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223701_6ae0a8fde85e6_8455cb0b476e97c08d462f6f83e3882f2bba1bdd63837f0a0641e69ba70b9a0a.png",
