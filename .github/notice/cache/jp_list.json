@@ -1,15 +1,6 @@
 {
  "announcements": [
   {
-   "category": "BUG",
-   "endAt": "1796050740",
-   "id": "106",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1795010400",
-   "stylesheetId": "1",
-   "title": "過去イベントのイベントバッジが引き継がれる不具合について"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary26_00003_7bac350abc485f3c82d00699dd2ed3dde2b1ebaebcde0cec9a62ee44938452e2.png",
    "category": "CAMPAIGN",
    "endAt": "1795186740",
@@ -21,6 +12,24 @@
    "startAt": "1794927600",
    "stylesheetId": "1",
    "title": "【追記 11/18】夢限大みゅーたいぷ バンド記念日 キャンペーン！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1795759140",
+   "id": "106",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795010400",
+   "stylesheetId": "1",
+   "title": "【追記 11/19】過去イベントのイベントバッジが引き継がれる不具合について"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1795705140",
+   "id": "105",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1794927600",
+   "stylesheetId": "1",
+   "title": "【追記 11/19】「ショップ」機能メンテナンス実施のご案内"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00024_4e0b56bc02379e0645b7e96dd39baad2c840a591680566c66c4c9964071013ff.png",
@@ -47,15 +56,6 @@
    "startAt": "1794981600",
    "stylesheetId": "1",
    "title": "イベント「きみはまるくん」開催！"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1796050740",
-   "id": "105",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1794927600",
-   "stylesheetId": "1",
-   "title": "【追記 11/18】「ショップ」機能メンテナンス実施のご案内"
   },
   {
    "category": "BUG",
