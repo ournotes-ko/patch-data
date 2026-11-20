@@ -2,6 +2,14 @@
  "announcements": [
   {
    "category": "BUG",
+   "endAt": "1795359599",
+   "id": "100072",
+   "lastUpdatedAt": "1795172785",
+   "startAt": "1795172400",
+   "title": "이벤트 교환소 오류 및 로그인 문제 수정 안내"
+  },
+  {
+   "category": "BUG",
    "endAt": "1795759199",
    "id": "100070",
    "lastUpdatedAt": "1795010291",
