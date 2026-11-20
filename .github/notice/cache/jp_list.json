@@ -1,19 +1,6 @@
 {
  "announcements": [
   {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_band_anniversary26_00003_7bac350abc485f3c82d00699dd2ed3dde2b1ebaebcde0cec9a62ee44938452e2.png",
-   "category": "CAMPAIGN",
-   "endAt": "1795186740",
-   "id": "102",
-   "lastUpdatedAt": "1794934860",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_band_anniversary26_00003_c290e054792eaaf00a4cc82d5c462a54f8fe022f4c2fb7b678a7a4100a1d6094.png",
-   "pickupEndAt": "1795186740",
-   "pickupStartAt": "1794927600",
-   "startAt": "1794927600",
-   "stylesheetId": "1",
-   "title": "【追記 11/18】夢限大みゅーたいぷ バンド記念日 キャンペーン！"
-  },
-  {
    "category": "BUG",
    "endAt": "1795759140",
    "id": "106",

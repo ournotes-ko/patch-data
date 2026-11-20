@@ -17,26 +17,6 @@
    "title": "이벤트 배지 보유 수량이 초기화되지 않은 문제 안내"
   },
   {
-   "category": "BUG",
-   "endAt": "1795186799",
-   "id": "100069",
-   "lastUpdatedAt": "1794972774",
-   "startAt": "1794970800",
-   "title": "패키지 판매 가격 오류 수정 안내"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_212111_6afc46b7e197d_b5a490770708f197fd1d012addc37d2ed889183c56f5131d6a92c9aecf919d89.png",
-   "category": "CAMPAIGN",
-   "endAt": "1795186799",
-   "id": "100068",
-   "lastUpdatedAt": "1794918313",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_212129_6afc46c961f95_49204946e31e90e0774102cc55243ae01fcd50a2e670180447ed81d16bfa84ff.png",
-   "pickupEndAt": "1795186799",
-   "pickupStartAt": "1794927600",
-   "startAt": "1794927600",
-   "title": "무겐다이 뮤타입 밴드 기념일 캠페인!"
-  },
-  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174255_6afc138f5f04e_13deecc41f05792428187109140623c92a007d9545c9f07aeeea5c2cf6bce7c5.png",
    "category": "EVENT",
    "endAt": "1796104740",
