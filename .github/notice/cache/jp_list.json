@@ -1,6 +1,19 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_home_banner_00036_eadea41b9f74c6f54ea69c949685035d80a533f959820c77dd730dd28ac2dabe.png",
+   "category": "CAMPAIGN",
+   "endAt": "1795532340",
+   "id": "104",
+   "lastUpdatedAt": "1795532340",
+   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_birthday26-27_00004_1ff78c7ebf686489e6fb589a4f61af6e61c9bd07ddf1bb355792e47f2733019a.png",
+   "pickupEndAt": "1795532340",
+   "pickupStartAt": "1795273200",
+   "startAt": "1795273200",
+   "stylesheetId": "1",
+   "title": "11/22は燈の誕生日！"
+  },
+  {
    "category": "BUG",
    "endAt": "1795759140",
    "id": "106",
