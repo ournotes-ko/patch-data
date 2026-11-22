@@ -1,14 +1,6 @@
 {
  "announcements": [
   {
-   "category": "BUG",
-   "endAt": "1795359599",
-   "id": "100072",
-   "lastUpdatedAt": "1795172785",
-   "startAt": "1795172400",
-   "title": "이벤트 교환소 오류 및 로그인 문제 수정 안내"
-  },
-  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261120_163756_6afff8d4af35e_5d98aca546a02fa4c031e1d182fe58fcddd85775d491ed05bcf7bcb2325cd99f.png",
    "category": "CAMPAIGN",
    "endAt": "1795532399",
@@ -59,15 +51,6 @@
    "lastUpdatedAt": "1794570510",
    "startAt": "1794570000",
    "title": "「격주 아레나 교환소」 뽑기 티켓 변경 및 이용 기한 안내"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261109_201220_6af1aa94ca185_f6174a0ca296664b15c8918dc0d167b1d2903b32c78d253a5fdcacb7c8ed1abc.png",
-   "category": "EVENT",
-   "endAt": "1795348740",
-   "id": "100061",
-   "lastUpdatedAt": "1794223322",
-   "startAt": "1794625200",
-   "title": "MyGO!!!!! 9th LIVE 「つなぎ目の向こうに」- 神戸再景編 - 기념 캠페인 개최!"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223701_6ae0a8fde85e6_8455cb0b476e97c08d462f6f83e3882f2bba1bdd63837f0a0641e69ba70b9a0a.png",
