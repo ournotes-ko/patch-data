@@ -1,18 +1,6 @@
 {
  "announcements": [
   {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261120_163756_6afff8d4af35e_5d98aca546a02fa4c031e1d182fe58fcddd85775d491ed05bcf7bcb2325cd99f.png",
-   "category": "CAMPAIGN",
-   "endAt": "1795532399",
-   "id": "100071",
-   "lastUpdatedAt": "1795164623",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261120_163756_6afff8d41e02e_48986d8bf5b2aff71cd5555e0bcaf9c2b3b43f2a90042afb90f78272397fb31d.png",
-   "pickupEndAt": "1795532399",
-   "pickupStartAt": "1795273200",
-   "startAt": "1795273200",
-   "title": "Happy Birthday, 토모리!"
-  },
-  {
    "category": "BUG",
    "endAt": "1795759199",
    "id": "100070",
