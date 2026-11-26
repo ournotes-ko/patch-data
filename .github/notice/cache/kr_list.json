@@ -1,6 +1,31 @@
 {
  "announcements": [
   {
+   "category": "UPDATE",
+   "endAt": "1795931999",
+   "id": "100075",
+   "lastUpdatedAt": "1795668344",
+   "startAt": "1795672800",
+   "title": "「격주 아레나 Season 2」 및 「시즌 미션 패스 Season 2」 개최 예고!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_123123_6b07a80b4f15f_9782bce52554a4e06c2c416e068dde6f6be271ab52d7ed718129645181c274a4.png",
+   "category": "UPDATE",
+   "endAt": "1795777200",
+   "id": "100074",
+   "lastUpdatedAt": "1795663994",
+   "startAt": "1795663801",
+   "title": "Ver.1.2.0 업데이트 및 점검 안내"
+  },
+  {
+   "category": "OTHER",
+   "endAt": "1796268600",
+   "id": "100073",
+   "lastUpdatedAt": "1795663993",
+   "startAt": "1795663800",
+   "title": "최근 확인된 문제 수정 및 관련 보상 안내"
+  },
+  {
    "category": "BUG",
    "endAt": "1795759199",
    "id": "100070",

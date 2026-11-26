@@ -1,6 +1,43 @@
 {
  "announcements": [
   {
+   "category": "EVENT",
+   "endAt": "1795931940",
+   "id": "108",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795672800",
+   "stylesheetId": "1",
+   "title": "「撃奏アリーナ Season 2」開催予告！"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1795931940",
+   "id": "107",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795672800",
+   "stylesheetId": "1",
+   "title": "「シーズンミッションパス Season 2」開催予告！"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1795777140",
+   "id": "113",
+   "lastUpdatedAt": "1795656360",
+   "startAt": "1795662000",
+   "stylesheetId": "1",
+   "title": "Ver.1.1.0アップデートに伴う不具合対応とお詫びについて"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
+   "category": "MAINTENANCE",
+   "endAt": "1795769940",
+   "id": "109",
+   "lastUpdatedAt": "1795656300",
+   "startAt": "1795662000",
+   "stylesheetId": "1",
+   "title": "「Ver.1.2.0」アップデートに伴うメンテナンス実施のご案内"
+  },
+  {
    "category": "BUG",
    "endAt": "1795759140",
    "id": "106",
