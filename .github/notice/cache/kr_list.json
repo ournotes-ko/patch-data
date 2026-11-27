@@ -1,21 +1,24 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_154949_6b07d68dcfbda_1e199deff1dec2e1b2812b730c495e11cd1043355ee19759a8f55c578d48088d.png",
+   "category": "CAMPAIGN",
+   "endAt": "1796569199",
+   "id": "100076",
+   "lastUpdatedAt": "1795684139",
+   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_154950_6b07d68eea1ec_d0e2cc19b8df9c4e6f40092488ff9bb244671add96f03213c2dee775821fe8af.png",
+   "pickupEndAt": "1796569199",
+   "pickupStartAt": "1795777201",
+   "startAt": "1795777201",
+   "title": "「블랙 프라이데이」 패키지 판매 예고!"
+  },
+  {
    "category": "UPDATE",
    "endAt": "1795931999",
    "id": "100075",
-   "lastUpdatedAt": "1795668344",
+   "lastUpdatedAt": "1795768734",
    "startAt": "1795672800",
    "title": "「격주 아레나 Season 2」 및 「시즌 미션 패스 Season 2」 개최 예고!"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_123123_6b07a80b4f15f_9782bce52554a4e06c2c416e068dde6f6be271ab52d7ed718129645181c274a4.png",
-   "category": "UPDATE",
-   "endAt": "1795777200",
-   "id": "100074",
-   "lastUpdatedAt": "1795663994",
-   "startAt": "1795663801",
-   "title": "Ver.1.2.0 업데이트 및 점검 안내"
   },
   {
    "category": "OTHER",
@@ -24,14 +27,6 @@
    "lastUpdatedAt": "1795663993",
    "startAt": "1795663800",
    "title": "최근 확인된 문제 수정 및 관련 보상 안내"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1795759199",
-   "id": "100070",
-   "lastUpdatedAt": "1795010291",
-   "startAt": "1795010400",
-   "title": "이벤트 배지 보유 수량이 초기화되지 않은 문제 안내"
   },
   {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261117_174255_6afc138f5f04e_13deecc41f05792428187109140623c92a007d9545c9f07aeeea5c2cf6bce7c5.png",

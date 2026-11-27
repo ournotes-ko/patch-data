@@ -39,15 +39,6 @@
   },
   {
    "category": "BUG",
-   "endAt": "1795759140",
-   "id": "106",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1795010400",
-   "stylesheetId": "1",
-   "title": "【追記 11/19】過去イベントのイベントバッジが引き継がれる不具合について"
-  },
-  {
-   "category": "BUG",
    "endAt": "1796050740",
    "id": "105",
    "lastUpdatedAt": "-62135596800",
