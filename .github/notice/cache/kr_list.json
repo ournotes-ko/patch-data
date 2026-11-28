@@ -1,6 +1,24 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_180056_6b07f54838333_8528f0bad23525979af0b9ffa60f7c4b89a1a376c61f3b752ee7f5c67a2989f6.png",
+   "category": "EVENT",
+   "endAt": "1795931999",
+   "id": "100083",
+   "lastUpdatedAt": "1795842265",
+   "startAt": "1795777200",
+   "title": "이벤트 「빛, 손가락 사이로」 개최 예고!"
+  },
+  {
+   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_162137_6b07de015a083_47ebe799e4a768c3b30980378f12e171f4e9ddfe7373b9e2bdab1e5f3d5f8258.png",
+   "category": "GACHA",
+   "endAt": "1795931999",
+   "id": "100082",
+   "lastUpdatedAt": "1795842262",
+   "startAt": "1795777200",
+   "title": "「누군가를 위한 희생 뽑기」 개최 예고!"
+  },
+  {
    "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261126_154949_6b07d68dcfbda_1e199deff1dec2e1b2812b730c495e11cd1043355ee19759a8f55c578d48088d.png",
    "category": "CAMPAIGN",
    "endAt": "1796569199",
@@ -59,18 +77,6 @@
    "lastUpdatedAt": "1794570510",
    "startAt": "1794570000",
    "title": "「격주 아레나 교환소」 뽑기 티켓 변경 및 이용 기한 안내"
-  },
-  {
-   "bannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223701_6ae0a8fde85e6_8455cb0b476e97c08d462f6f83e3882f2bba1bdd63837f0a0641e69ba70b9a0a.png",
-   "category": "EVENT",
-   "endAt": "1795845540",
-   "id": "100051",
-   "lastUpdatedAt": "1793111229",
-   "pickupBannerUrl": "https://l14-prod-sg-patch-sirius.bilibiligame.net/prod/kr_461b4e9a7c2385f0e2d966a1b73c8f52/operation/announcement/20261027_223650_6ae0a8f28756a_5056dc563a8049747e53216442d6321cc4b1e62d74d766e87afe4c9afdfe1604.png",
-   "pickupEndAt": "1795845540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "title": "「격주 아레나 Season 1」 & 「시즌 미션 패스 Season 1」 오픈!"
   }
  ],
  "externalContents": [

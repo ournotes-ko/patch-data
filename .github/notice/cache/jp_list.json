@@ -1,10 +1,95 @@
 {
  "announcements": [
   {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00026_490f63769ce1924636f90dd58358f3338b5ad7d442158436e0d65c15a0e736a4.png",
+   "category": "GACHA",
+   "endAt": "1795931940",
+   "id": "115",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "「誰が為のサクリファイスガチャ」開催予告！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00007_c51d9c29bfd1d95c6af28871030b80a528d56b9ef819afbbf05805155f4d1d3c.png",
+   "category": "EVENT",
+   "endAt": "1795931940",
+   "id": "116",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "イベント「光、ゆびのすきまから。」開催予告！"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1796569140",
+   "id": "114",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "「ブラックフライデー」パック販売予告！"
+  },
+  {
+   "category": "CAMPAIGN",
+   "endAt": "1796482740",
+   "id": "112",
+   "lastUpdatedAt": "-62135596800",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "オリジナル楽曲「回層浮」追加！"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_update_a3f0de1c467f571860ee9e3b78ee7f9f018bc966fee666591ccd016c8b91eb59.png",
+   "category": "UPDATE",
+   "endAt": "1796396340",
+   "id": "111",
+   "lastUpdatedAt": "1795834800",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "「Ver.1.2.0」アップデートのご案内"
+  },
+  {
+   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
+   "category": "MAINTENANCE",
+   "endAt": "1796396340",
+   "id": "110",
+   "lastUpdatedAt": "1795846140",
+   "startAt": "1795777200",
+   "stylesheetId": "1",
+   "title": "【追記 11/28】メンテナンス終了及びメンテナンス延長に伴う各種対応のご案内"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1796396340",
+   "id": "113",
+   "lastUpdatedAt": "1795783380",
+   "startAt": "1795662000",
+   "stylesheetId": "1",
+   "title": "【追記 11/27】Ver.1.1.0アップデートに伴う不具合対応とお詫びについて"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1796396340",
+   "id": "105",
+   "lastUpdatedAt": "1795783320",
+   "startAt": "1794927600",
+   "stylesheetId": "1",
+   "title": "【追記 11/27】「ショップ」機能メンテナンス実施のご案内"
+  },
+  {
+   "category": "BUG",
+   "endAt": "1821625200",
+   "id": "2",
+   "lastUpdatedAt": "1795784820",
+   "startAt": "1790686800",
+   "stylesheetId": "1",
+   "title": "【追記 11/27】現在確認している不具合"
+  },
+  {
    "category": "EVENT",
    "endAt": "1795931940",
    "id": "108",
-   "lastUpdatedAt": "-62135596800",
+   "lastUpdatedAt": "1795764600",
    "startAt": "1795672800",
    "stylesheetId": "1",
    "title": "「撃奏アリーナ Season 2」開催予告！"
@@ -13,51 +98,23 @@
    "category": "CAMPAIGN",
    "endAt": "1795931940",
    "id": "107",
-   "lastUpdatedAt": "-62135596800",
+   "lastUpdatedAt": "1795764600",
    "startAt": "1795672800",
    "stylesheetId": "1",
    "title": "「シーズンミッションパス Season 2」開催予告！"
   },
   {
-   "category": "BUG",
-   "endAt": "1795777140",
-   "id": "113",
-   "lastUpdatedAt": "1795656360",
-   "startAt": "1795662000",
-   "stylesheetId": "1",
-   "title": "Ver.1.1.0アップデートに伴う不具合対応とお詫びについて"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_maintenance_53e2dc261318f84a367756c93828f4fd6c0fcc166a476cf44b4e6dbf76fa79ea.png",
-   "category": "MAINTENANCE",
-   "endAt": "1795769940",
-   "id": "109",
-   "lastUpdatedAt": "1795656300",
-   "startAt": "1795662000",
-   "stylesheetId": "1",
-   "title": "「Ver.1.2.0」アップデートに伴うメンテナンス実施のご案内"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1796050740",
-   "id": "105",
-   "lastUpdatedAt": "-62135596800",
-   "startAt": "1794927600",
-   "stylesheetId": "1",
-   "title": "【追記 11/19】「ショップ」機能メンテナンス実施のご案内"
-  },
-  {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_gacha_00024_4e0b56bc02379e0645b7e96dd39baad2c840a591680566c66c4c9964071013ff.png",
    "category": "GACHA",
-   "endAt": "1795931940",
+   "endAt": "1796018340",
    "id": "100",
-   "lastUpdatedAt": "1795931940",
+   "lastUpdatedAt": "1795845720",
    "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_banner_gacha_00024_8661cab1dc41f1375918905452a5bd5e8317a2b4aec762776864fc97be4436db.png",
-   "pickupEndAt": "1795931940",
+   "pickupEndAt": "1796018340",
    "pickupStartAt": "1794981600",
    "startAt": "1794981600",
    "stylesheetId": "1",
-   "title": "【追記 11/20】「よい子のための新時代トレーニングガチャ」開催！"
+   "title": "【追記 11/28】「よい子のための新時代トレーニングガチャ」開催！"
   },
   {
    "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_banner_event_00006_cea1ae3aeffa37df720f1be430b917a0668026c7ae349cbe4385c8e028303d34.png",
@@ -71,28 +128,6 @@
    "startAt": "1794981600",
    "stylesheetId": "1",
    "title": "イベント「きみはまるくん」開催！"
-  },
-  {
-   "category": "BUG",
-   "endAt": "1821625200",
-   "id": "2",
-   "lastUpdatedAt": "1794396180",
-   "startAt": "1790686800",
-   "stylesheetId": "1",
-   "title": "【追記 11/18】現在確認している不具合"
-  },
-  {
-   "bannerUrl": "https://static.bang-dream-on.jp/operation/info_s_home_banner_00024_04bcdde568cd2f8f349ec24fc12f431203b62ce8a05b1df5e98a66a5fbd67f70.png",
-   "category": "EVENT",
-   "endAt": "1795845540",
-   "id": "81",
-   "lastUpdatedAt": "1794901500",
-   "pickupBannerUrl": "https://static.bang-dream-on.jp/operation/info_l_home_banner_00024_18c3637ffa2254df6bb1574d8e7f8179110554b0e8da13f4f5552059c0ec2523.png",
-   "pickupEndAt": "1795845540",
-   "pickupStartAt": "1793113200",
-   "startAt": "1793113200",
-   "stylesheetId": "1",
-   "title": "【追記 11/17】「撃奏アリーナ Season 1」開催！"
   },
   {
    "category": "CAMPAIGN",
